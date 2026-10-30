@@ -1,0 +1,14 @@
+{
+  "id": "/publicaciones/",
+  "name": "Publicaciones · RservasRoma",
+  "short_name": "Publicaciones",
+  "start_url": "/publicaciones/",
+  "scope": "/publicaciones/",
+  "display": "standalone",
+  "background_color": "#FFFAF7",
+  "theme_color": "#FFFAF7",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
