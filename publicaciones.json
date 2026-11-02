@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-dias-cliente",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Día 1, día 7, día 30: perdía una clienta cada día",
+    "archivo": "reels/2026-11-dias-cliente/salida/reel-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Perdía una clienta cada día… y no sabía por qué. 💔\n\nDía 1: respondió el precio 4 horas después.\nDía 7: dos clientas a la misma hora.\nDía 30: un cuaderno lleno de citas y la mitad no llegó.\n\nLa competencia de enfrente tenía lo mismo… menos una cosa: un enlace en su Instagram donde las clientas reservan solas, con día, hora y anticipo.\n\n¿Cuál de los tres días te ha pasado a ti? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #reservasonline #agendaonline #salondebelleza #manicura #uñas #negociodebelleza #emprendedoras #cuba #lahabana #artemisa #nailsartist #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-dias\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista, con tu enlace para el Instagram. 💗"
+      }
+    ]
+  },
+  {
     "id": "reel-material-acabado",
     "fecha": "2026-11-02",
     "tipo": "Reel",
