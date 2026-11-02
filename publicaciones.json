@@ -1,5 +1,30 @@
 [
   {
+    "id": "reel-yami-estafa",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Yami: ¿Me estafaron? (testimonio Luxury Moon)",
+    "archivo": "reels/2026-11-clips-reellls/salida/yami-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "«¿Me estafaron? Sí, oíste bien.» 😱\n\nYami, de Luxury Moon Varadero, nos lo cuenta:\n✅ La app le avisa un día antes quién tiene turno\n✅ Sus clientas reservan solas, sin que ella esté pendiente del teléfono\n✅ Tiene su catálogo con las fotos de sus trabajos para que la clienta elija antes de la cita\n\n«Me dieron muchísimo más de lo que pagué.» 💗 Gracias, Yami.\n\n¿Quieres que tu salón funcione así? Te leo 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #testimonio #lashista #pestañas #cosmetologia #varadero #salondebelleza #reservasonline #agendaonline #negociodebelleza #emprendedoras #cuba #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-yami\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      },
+      {
+        "nombre": "Etiqueta",
+        "texto": "Etiqueta a @luxury.moon.varadero en la publicación y como colaboradora."
+      }
+    ]
+  },
+  {
     "id": "reel-dias-cliente",
     "fecha": "2026-11-02",
     "tipo": "Reel",
