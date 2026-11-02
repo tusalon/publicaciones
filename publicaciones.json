@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-material-acabado",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Se te acabó el material en plena cita",
+    "archivo": "reels/2026-11-material-acabado/salida/reel-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Clienta sentada, uñas preparadas… y el gel se acabó. 😩\n\nNo vuelvas a enterarte con la clienta delante. En RomaFinanzas anotas cuántos pomos tienes y cada servicio que cobras descuenta solo lo que usaste.\n\nCuando a un producto le quedan menos de 20 servicios, la app te avisa para que lo repongas a tiempo. Sin configurar nada.\n\n¿Qué material es el que siempre se te acaba sin avisar? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #inventario #materialesdeuñas #manicura #uñas #gel #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-material\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
     "id": "reel-pomo-topcoat",
     "fecha": "2026-11-02",
     "tipo": "Reel",
