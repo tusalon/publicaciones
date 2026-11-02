@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-pomo-topcoat",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "El pomo de top coat también te cobra",
+    "archivo": "reels/2026-11-pomo-topcoat/salida/reel-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Ese pomo que compraste una vez… lo vas pagando un poquito en cada clienta. 💅\n\nSi un top coat te alcanza, por ejemplo, para 40 usos, cada clienta se lleva su parte. Y lo mismo pasa con la base, el gel y las limas.\n\nEn RomaFinanzas anotas lo que te costó cada producto y para cuántos usos alcanza, y la ficha de costo suma lo que gastas en cada servicio. Así sabes cuánto te queda limpio de verdad.\n\n¿Tú ya sabes cuánto te cuesta cada clienta en materiales? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #fichadecosto #manicura #uñas #topcoat #materialesdeuñas #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-topcoat\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
     "id": "reel-ismaray-precios",
     "fecha": "2026-10-30",
     "tipo": "Reel",
