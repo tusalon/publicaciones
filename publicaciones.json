@@ -1,5 +1,26 @@
 [
  {
+  "id": "reel-whatsapp-11",
+  "fecha": "2026-11-03",
+  "tipo": "Reel",
+  "titulo": "Deja de agendar por WhatsApp a las 11",
+  "archivo": "reels/2026-11-whatsapp-11/salida/whatsapp-11-v1.mp4",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "¿Sigues agendando por WhatsApp a las 11 de la noche? 🌙\n\nSales del salón y empieza el segundo turno: \"¿tienes hueco el sábado?\", \"¿cuánto cuesta?\"… Y mientras respondes una, otra clienta ya reservó en otro salón.\n\nCon RservasRoma tu clienta abre tu enlace y reserva sola:\n✅ Elige servicio, día y hora\n✅ Deja su anticipo\n✅ A ti te llega el aviso y solo confirmas\n\nTu salón sigue abierto para reservar. Tú, a descansar. 💗\n\n¿A qué hora contestas tu último mensaje del día? Cuéntame 👇"
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#RservasRoma #salondebelleza #manicurista"
+   },
+   {
+    "nombre": "Primer comentario",
+    "texto": "👉 Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-whatsapp11"
+   }
+  ]
+ },
+ {
   "id": "reel-cobras-2500",
   "fecha": "2026-11-03",
   "tipo": "Reel",
