@@ -1,5 +1,47 @@
 [
  {
+  "id": "reel-lo-que-no-sabias-01",
+  "fecha": "2026-11-06",
+  "tipo": "Reel",
+  "titulo": "Lo que no sabías · 01: uñas, cutícula y pelo",
+  "archivo": "reels/2026-11-lo-que-no-sabias-01/salida/lo-que-no-sabias-01-v2.mp4",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "Lo que creías de tus uñas y tu pelo… no era del todo cierto. 💗\n\nCuatro datos para cuidarte mejor. Guárdalo y mándaselo a quien todavía se corta la cutícula. 📌\n\nAprende más con RservasRoma. Si tienes dudas de salud, consulta a tu dermatólogo."
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#bellezaysalud #cuidadodeuñas #manicura #uñas #cabello #tipsdebelleza #datoscuriosos #sabiasque #salondebelleza #cuidadopersonal #mitosdebelleza #RservasRoma"
+   },
+   {
+    "nombre": "Primer comentario",
+    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-lo-que-no-sabias-01"
+   }
+  ]
+ },
+ {
+  "id": "carrusel-manual-finanzas",
+  "fecha": "2026-11-05",
+  "tipo": "Carrusel",
+  "titulo": "Manual de Roma Finanzas (9 diapositivas)",
+  "archivo": "carrusel-manual-finanzas/salida/diapositiva-1.png … diapositiva-9.png",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "Cobrar mucho no es lo mismo que ganar mucho. 💗\n\nSi ya usas RservasRoma, tu panel trae Roma Finanzas: te dice cuánto te queda limpio en cada servicio. Preparamos un manual paso a paso, con ejemplos de números, para que la prepares sin perderte.\n\nEscríbenos por WhatsApp y te lo enviamos. 📲 ¿Todavía no usas RservasRoma? En el enlace del perfil están todos los detalles para que empieces a usarla ya."
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#RservasRoma #salondebelleza #finanzasparasalones"
+   },
+   {
+    "nombre": "Texto alternativo de la portada",
+    "texto": "Roma, la pug de RservasRoma, con una calculadora. Texto: ¿Cuánto te queda limpio por servicio? Ya está el manual de Roma Finanzas."
+   }
+  ]
+ },
+ {
   "id": "reel-whatsapp-11",
   "fecha": "2026-11-03",
   "tipo": "Reel",
