@@ -1,5 +1,26 @@
 [
  {
+  "id": "reel-reserva-betty",
+  "fecha": "2026-11-07",
+  "tipo": "Reel",
+  "titulo": "Así reserva una clienta en Betty Nails",
+  "archivo": "reels/2026-11-reserva-betty/salida/reserva-betty-v2.mp4",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "Tu clienta no tiene que escribirte para pedir turno. 💅\n\nAsí reserva en Betty Nails: abre el enlace, pone su WhatsApp, elige el servicio, con quién, el día y la hora… y listo. Le avisamos un día antes y a Betty le llega la reserva por WhatsApp.\n\n¿Quieres que en tu salón sea igual? Toca el enlace del perfil. 📲"
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#RservasRoma #salondebelleza #manicura #uñas #nailscuba #agendadigital #reservasonline #dueñadesalon #emprendedorascuba #bettynails"
+   },
+   {
+    "nombre": "Primer comentario",
+    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-reserva-betty"
+   }
+  ]
+ },
+ {
   "id": "reel-lo-que-no-sabias-01",
   "fecha": "2026-11-06",
   "tipo": "Reel",
