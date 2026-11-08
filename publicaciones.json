@@ -1,5 +1,26 @@
 [
  {
+  "id": "reel-30dias-01",
+  "fecha": "2026-11-08",
+  "tipo": "Reel",
+  "titulo": "30 días · Día 1: visita sin camino = clienta perdida",
+  "archivo": "reels/2026-11-romacrece-serie/salida/dia-01/dia-01-v4.mp4",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "Una visita sin camino no es una clienta. 💗\n\nHoy empieza el reto de 30 días: un paso por día para que tu Instagram trabaje para tu agenda.\n\n📌 Tu tarea de hoy: abre tu perfil y mira si, con un toque, alguien puede reservar contigo.\n\nGuárdalo y mándaselo a una amiga que tenga salón. Mañana, el día 2: tu bio y cinco segundos para decir qué haces."
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#RservasRoma #retode30dias #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #crecereninstagram #emprendedorascuba #reservasonline"
+   },
+   {
+    "nombre": "Primer comentario",
+    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-30dias-01"
+   }
+  ]
+ },
+ {
   "id": "reel-reserva-betty",
   "fecha": "2026-11-07",
   "tipo": "Reel",
