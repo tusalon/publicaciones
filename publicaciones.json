@@ -1,5 +1,27 @@
 [
  {
+  "id": "wa-actualizacion-panel-2026-11-08",
+  "fecha": "2026-11-08",
+  "tipo": "WhatsApp",
+  "seccion": "whatsapp",
+  "titulo": "Actualización del panel: lista de espera, disponibilidad y anticipo",
+  "archivo": "Release admin-2026-11-08-lista-espera-disponibilidad (APK de las dueñas)",
+  "bloques": [
+   {
+    "nombre": "Mensaje completo",
+    "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo:\n• Lista de espera por día: cuando se libera un turno, la oferta sale sola y la hora queda guardada 30 minutos.\n• Disponibilidad: cartel nuevo con Roma para compartir tus horas libres de un tramo de fechas.\n• Anticipo: moneda propia y la opción de cobrarlo una sola vez por cita.\n• Fidelidad: tarjeta con sellos para tus clientas y descuento visible antes de cobrar.\n• Acceso al panel rediseñado.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
+   },
+   {
+    "nombre": "Versión corta",
+    "texto": "Ya está la nueva actualización de tu panel de RservasRoma 💗 Lista de espera por día, cartel de disponibilidad con Roma y más.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
+   },
+   {
+    "nombre": "Enlace de descarga (Android)",
+    "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+   }
+  ]
+ },
+ {
   "id": "reel-30dias-01",
   "fecha": "2026-11-08",
   "tipo": "Reel",
