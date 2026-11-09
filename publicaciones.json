@@ -1,5 +1,26 @@
 [
  {
+  "id": "reel-ficha-builder-gel",
+  "fecha": "2026-11-08",
+  "tipo": "Reel",
+  "titulo": "Ficha de costo de una extensión con builder gel (Oslaida, Lola Nails Studio)",
+  "archivo": "reels/2026-11-ficha-builder-gel/salida/ficha-builder-gel-v2.mp4",
+  "bloques": [
+   {
+    "nombre": "Texto de la publicación",
+    "texto": "Cobras 2 500 pesos por una extensión con builder gel. ¿Cuánto te queda de verdad? 💗\n\nOslaida, de Lola Nails Studio, en La Habana, hizo su ficha de costo en Roma Finanzas: 24 productos, su tiempo (2 h 20) y lo que paga cada mes repartido entre sus servicios.\n\nEl resultado: le quedan 861 pesos limpios, y la app le dice el precio para llegar a su meta del 30 %: 2 342.\n\n📌 Tu tarea: haz la ficha del servicio que más tiempo te lleva. Guárdalo y mándaselo a una amiga que tenga salón."
+   },
+   {
+    "nombre": "Hashtags",
+    "texto": "#RservasRoma #RomaFinanzas #fichadecosto #salondebelleza #manicura #uñas #buildergel #nailscuba #emprendedorascuba #costosdeunsalon"
+   },
+   {
+    "nombre": "Primer comentario",
+    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ficha-builder-gel"
+   }
+  ]
+ },
+ {
   "id": "wa-actualizacion-mensaje-confirmacion-2026-11-08",
   "fecha": "2026-11-08",
   "tipo": "WhatsApp",
