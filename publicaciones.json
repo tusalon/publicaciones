@@ -1,415 +1,436 @@
 [
- {
-  "id": "reel-ficha-builder-gel",
-  "fecha": "2026-11-08",
-  "tipo": "Reel",
-  "titulo": "Ficha de costo de una extensión con builder gel (Oslaida, Lola Nails Studio)",
-  "archivo": "reels/2026-11-ficha-builder-gel/salida/ficha-builder-gel-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Cobras 2 500 pesos por una extensión con builder gel. ¿Cuánto te queda de verdad? 💗\n\nOslaida, de Lola Nails Studio, en La Habana, hizo su ficha de costo en Roma Finanzas: 24 productos, su tiempo (2 h 20) y lo que paga cada mes repartido entre sus servicios.\n\nEl resultado: le quedan 861 pesos limpios, y la app le dice el precio para llegar a su meta del 30 %: 2 342.\n\n📌 Tu tarea: haz la ficha del servicio que más tiempo te lleva. Guárdalo y mándaselo a una amiga que tenga salón."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #fichadecosto #salondebelleza #manicura #uñas #buildergel #nailscuba #emprendedorascuba #costosdeunsalon"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ficha-builder-gel"
-   }
-  ]
- },
- {
-  "id": "wa-actualizacion-mensaje-confirmacion-2026-11-08",
-  "fecha": "2026-11-08",
-  "tipo": "WhatsApp",
-  "seccion": "whatsapp",
-  "titulo": "Actualización del panel: mensaje de confirmación editable",
-  "archivo": "Release admin-2026-11-08-mensaje-confirmacion (APK de las dueñas)",
-  "bloques": [
-   {
-    "nombre": "Mensaje completo",
-    "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo: ahora puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita.\n\n📝 Dónde: Editar Negocio → Mensajes → «Mensaje de confirmación de la cita».\n• Ya viene escrito con el mensaje de siempre: fecha, hora, servicio, profesional, total, dirección y enlace al calendario.\n• Cámbialo a tu gusto: añade o quita lo que quieras. Lo que dejes ahí es lo que recibe tu clienta por WhatsApp.\n• Si quitas un dato, toca «+ Fecha», «+ Hora»… y vuelve a aparecer.\n• Debajo ves cómo lo verá tu clienta.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
-   },
-   {
-    "nombre": "Versión corta",
-    "texto": "Ya puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita 💗\n\nEstá en Editar Negocio → Mensajes. Ya viene escrito con el de siempre: tú le añades o le quitas lo que quieras.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
-   },
-   {
-    "nombre": "Enlace de descarga (Android)",
-    "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
-   }
-  ]
- },
- {
-  "id": "wa-actualizacion-panel-2026-11-08",
-  "fecha": "2026-11-08",
-  "tipo": "WhatsApp",
-  "seccion": "whatsapp",
-  "titulo": "Actualización del panel: lista de espera, disponibilidad y anticipo",
-  "archivo": "Release admin-2026-11-08-lista-espera-disponibilidad (APK de las dueñas)",
-  "bloques": [
-   {
-    "nombre": "Mensaje completo",
-    "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo:\n• Lista de espera por día: cuando se libera un turno, la oferta sale sola y la hora queda guardada 30 minutos.\n• Disponibilidad: cartel nuevo con Roma para compartir tus horas libres de un tramo de fechas.\n• Anticipo: moneda propia y la opción de cobrarlo una sola vez por cita.\n• Fidelidad: tarjeta con sellos para tus clientas y descuento visible antes de cobrar.\n• Acceso al panel rediseñado.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
-   },
-   {
-    "nombre": "Versión corta",
-    "texto": "Ya está la nueva actualización de tu panel de RservasRoma 💗 Lista de espera por día, cartel de disponibilidad con Roma y más.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
-   },
-   {
-    "nombre": "Enlace de descarga (Android)",
-    "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
-   }
-  ]
- },
- {
-  "id": "reel-30dias-01",
-  "fecha": "2026-11-08",
-  "tipo": "Reel",
-  "titulo": "30 días · Día 1: visita sin camino = clienta perdida",
-  "archivo": "reels/2026-11-romacrece-serie/salida/dia-01/dia-01-v4.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Una visita sin camino no es una clienta. 💗\n\nHoy empieza el reto de 30 días: un paso por día para que tu Instagram trabaje para tu agenda.\n\n📌 Tu tarea de hoy: abre tu perfil y mira si, con un toque, alguien puede reservar contigo.\n\nGuárdalo y mándaselo a una amiga que tenga salón. Mañana, el día 2: tu bio y cinco segundos para decir qué haces."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #retode30dias #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #crecereninstagram #emprendedorascuba #reservasonline"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-30dias-01"
-   }
-  ]
- },
- {
-  "id": "reel-reserva-betty",
-  "fecha": "2026-11-07",
-  "tipo": "Reel",
-  "titulo": "Así reserva una clienta en Betty Nails",
-  "archivo": "reels/2026-11-reserva-betty/salida/reserva-betty-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Tu clienta no tiene que escribirte para pedir turno. 💅\n\nAsí reserva en Betty Nails: abre el enlace, pone su WhatsApp, elige el servicio, con quién, el día y la hora… y listo. Le avisamos un día antes y a Betty le llega la reserva por WhatsApp.\n\n¿Quieres que en tu salón sea igual? Toca el enlace del perfil. 📲"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #salondebelleza #manicura #uñas #nailscuba #agendadigital #reservasonline #dueñadesalon #emprendedorascuba #bettynails"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-reserva-betty"
-   }
-  ]
- },
- {
-  "id": "reel-lo-que-no-sabias-01",
-  "fecha": "2026-11-06",
-  "tipo": "Reel",
-  "titulo": "Lo que no sabías · 01: uñas, cutícula y pelo",
-  "archivo": "reels/2026-11-lo-que-no-sabias-01/salida/lo-que-no-sabias-01-v4.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Lo que creías de tus uñas y tu pelo… no era del todo cierto. 💗\n\nCuatro datos para cuidarte mejor. Guárdalo y mándaselo a quien todavía se corta la cutícula. 📌\n\nAprende más con RservasRoma."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#bellezaysalud #cuidadodeuñas #manicura #uñas #cabello #tipsdebelleza #datoscuriosos #sabiasque #salondebelleza #cuidadopersonal #mitosdebelleza #RservasRoma"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-lo-que-no-sabias-01"
-   }
-  ]
- },
- {
-  "id": "carrusel-manual-finanzas",
-  "fecha": "2026-11-05",
-  "tipo": "Carrusel",
-  "titulo": "Manual de Roma Finanzas (9 diapositivas)",
-  "archivo": "carrusel-manual-finanzas/salida/diapositiva-1.png … diapositiva-9.png",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Cobrar mucho no es lo mismo que ganar mucho. 💗\n\nSi ya usas RservasRoma, tu panel trae Roma Finanzas: te dice cuánto te queda limpio en cada servicio. Preparamos un manual paso a paso, con ejemplos de números, para que la prepares sin perderte.\n\nEscríbenos por WhatsApp y te lo enviamos. 📲 ¿Todavía no usas RservasRoma? En el enlace del perfil están todos los detalles para que empieces a usarla ya."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #salondebelleza #finanzasparasalones"
-   },
-   {
-    "nombre": "Texto alternativo de la portada",
-    "texto": "Roma, la pug de RservasRoma, con una calculadora. Texto: ¿Cuánto te queda limpio por servicio? Ya está el manual de Roma Finanzas."
-   }
-  ]
- },
- {
-  "id": "reel-whatsapp-11",
-  "fecha": "2026-11-03",
-  "tipo": "Reel",
-  "titulo": "Deja de agendar por WhatsApp a las 11",
-  "archivo": "reels/2026-11-whatsapp-11/salida/whatsapp-11-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "¿Sigues agendando por WhatsApp a las 11 de la noche? 🌙\n\nSales del salón y empieza el segundo turno: \"¿tienes hueco el sábado?\", \"¿cuánto cuesta?\"… Y mientras respondes una, otra clienta ya reservó en otro salón.\n\nCon RservasRoma tu clienta abre tu enlace y reserva sola:\n✅ Elige servicio, día y hora\n✅ Deja su anticipo\n✅ A ti te llega el aviso y solo confirmas\n\nTu salón sigue abierto para reservar. Tú, a descansar. 💗\n\n¿A qué hora contestas tu último mensaje del día? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #salondebelleza #manicurista"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-whatsapp11"
-   }
-  ]
- },
- {
-  "id": "reel-cobras-2500",
-  "fecha": "2026-11-03",
-  "tipo": "Reel",
-  "titulo": "Finanzas Roma: Lisandra cobra 2.500",
-  "archivo": "reels/2026-11-cobras-2500/salida/cobras-2500-v1.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Cobras 2.500 por un set… ¿y cuánto te queda de verdad? 💸\n\nDe ahí sale el builder gel, el top coat, las limas, la luz y lo que pagas por tu app. Por eso a fin de mes no da la cuenta.\n\nEn RomaFinanzas (incluido en tu app de RservasRoma):\n✅ Eliges el servicio\n✅ Tocas los productos que usas\n✅ Ves al momento cuánto te queda limpio\n\nAntes de subir o bajar un precio, mira cuánto te deja de verdad. 💗"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #manicurista #uñasacrilicas #buildergel #salondeuñas #negociodebelleza #finanzasparaemprendedoras #emprendedoras #cuba #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con RomaFinanzas incluido, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-cobras2500\n\n¿Ya la tienes? Entra a Finanzas desde tu panel y toca «Calcula cuánto te queda». 💗"
-   }
-  ]
- },
- {
-  "id": "reel-formatos-ig",
-  "fecha": "2026-11-02",
-  "tipo": "Reel",
-  "titulo": "¿Para qué sirve cada formato de Instagram? (RomaCrece)",
-  "archivo": "reels/2026-11-formatos-ig/salida/formatos-ig-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "¿Publicas sin saber para qué sirve cada cosa? 🤔\n\n1️⃣ Reels → atraen gente nueva\n2️⃣ Carruseles → enseñan y hacen que te guarden\n3️⃣ Historias → ahí se vende: tus huecos libres y tu enlace de reservas\n4️⃣ Publicaciones fijas → muestran tu trabajo y dan confianza\n5️⃣ Directos → conectan y resuelven dudas al momento\n\n¿No sabes qué publicar cada día? En RomaCrece, que viene dentro de tu app de RservasRoma, el Planificador te arma la semana mezclando cada formato. 📅\n\nGuárdalo para tu próxima semana 🔖"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaCrece #instagramtips #marketingdigital #reels #carruseles #historias #salondebelleza #negociodebelleza #emprendedoras #cuba #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 ¿Aún no tienes tu app de reservas con RomaCrece incluido? Pídela con 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-formatos\n\nYa la tienes: entra a RomaCrece desde tu panel y toca Planificador. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-yami-estafa",
-  "fecha": "2026-11-02",
-  "tipo": "Reel",
-  "titulo": "Yami: ¿Me estafaron? (testimonio Luxury Moon)",
-  "archivo": "reels/2026-11-clips-reellls/salida/yami-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "«¿Me estafaron? Sí, oíste bien.» 😱\n\nYami, de Luxury Moon Varadero, nos lo cuenta:\n✅ La app le avisa un día antes quién tiene turno\n✅ Sus clientas reservan solas, sin que ella esté pendiente del teléfono\n✅ Tiene su catálogo con las fotos de sus trabajos para que la clienta elija antes de la cita\n\n«Me dieron muchísimo más de lo que pagué.» 💗 Gracias, Yami.\n\n¿Quieres que tu salón funcione así? Te leo 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #testimonio #lashista #pestañas #cosmetologia #varadero #salondebelleza #reservasonline #agendaonline #negociodebelleza #emprendedoras #cuba #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-yami\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   },
-   {
-    "nombre": "Etiqueta",
-    "texto": "Etiqueta a @luxury.moon.varadero en la publicación y como colaboradora."
-   }
-  ]
- },
- {
-  "id": "reel-dias-cliente",
-  "fecha": "2026-11-02",
-  "tipo": "Reel",
-  "titulo": "Día 1, día 7, día 30: perdía una clienta cada día",
-  "archivo": "reels/2026-11-dias-cliente/salida/reel-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Perdía una clienta cada día… y no sabía por qué. 💔\n\nDía 1: respondió el precio 4 horas después.\nDía 7: dos clientas a la misma hora.\nDía 30: un cuaderno lleno de citas y la mitad no llegó.\n\nLa competencia de enfrente tenía lo mismo… menos una cosa: un enlace en su Instagram donde las clientas reservan solas, con día, hora y anticipo.\n\n¿Cuál de los tres días te ha pasado a ti? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #reservasonline #agendaonline #salondebelleza #manicura #uñas #negociodebelleza #emprendedoras #cuba #lahabana #artemisa #nailsartist #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-dias\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista, con tu enlace para el Instagram. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-material-acabado",
-  "fecha": "2026-11-02",
-  "tipo": "Reel",
-  "titulo": "Se te acabó el material en plena cita",
-  "archivo": "reels/2026-11-material-acabado/salida/reel-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Clienta sentada, uñas preparadas… y el gel se acabó. 😩\n\nNo vuelvas a enterarte con la clienta delante. En RomaFinanzas anotas cuántos pomos tienes y cada servicio que cobras descuenta solo lo que usaste.\n\nCuando a un producto le quedan menos de 20 servicios, la app te avisa para que lo repongas a tiempo. Sin configurar nada.\n\n¿Qué material es el que siempre se te acaba sin avisar? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #inventario #materialesdeuñas #manicura #uñas #gel #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-material\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-pomo-topcoat",
-  "fecha": "2026-11-02",
-  "tipo": "Reel",
-  "titulo": "El pomo de top coat también te cobra",
-  "archivo": "reels/2026-11-pomo-topcoat/salida/reel-v2.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Ese pomo que compraste una vez… lo vas pagando un poquito en cada clienta. 💅\n\nSi un top coat te alcanza, por ejemplo, para 40 usos, cada clienta se lleva su parte. Y lo mismo pasa con la base, el gel y las limas.\n\nEn RomaFinanzas anotas lo que te costó cada producto y para cuántos usos alcanza, y la ficha de costo suma lo que gastas en cada servicio. Así sabes cuánto te queda limpio de verdad.\n\n¿Tú ya sabes cuánto te cuesta cada clienta en materiales? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #fichadecosto #manicura #uñas #topcoat #materialesdeuñas #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-topcoat\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-ismaray-precios",
-  "fecha": "2026-10-30",
-  "tipo": "Reel",
-  "titulo": "Ismaray: bajar precios no llena la agenda",
-  "archivo": "reels/2026-10-ismaray-precios/salida/reel-v1-toma-0m32.mp4 (o la de 0m31)",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Bajar precios para llenar la agenda casi nunca funciona. 💗\n\nIsmaray, de Artemisa, estaba a punto de hacerlo. Lo que sí suma son tres pasos:\n\n1️⃣ Especialízate (por ejemplo, uñas para novias)\n2️⃣ Muestra tu valor: tu proceso y tus materiales\n3️⃣ Cuida la experiencia: responde rápido y regala un detalle\n\nSegún PwC (2018), las clientas pagan hasta un 16 % más por una mejor experiencia.\n\nY antes de tocar un precio, mira tu ficha de costo en RomaFinanzas, incluido en RservasRoma.\n\n¿Cuál de los tres pasos te falta? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #preciosdeservicios #negociodebelleza #salondebelleza #manicura #uñas #uñasparanovias #emprendedoras #artemisa #cuba #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ismaray\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-fichas-costo",
-  "fecha": "2026-10-30",
-  "tipo": "Reel",
-  "titulo": "La ficha de costo: cuánto te queda limpio",
-  "archivo": "reels/2026-10-fichas-costo/salida/reel-v3.mp4",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Poner el precio «a ojo» te cuesta dinero sin que lo notes. 💗\n\nCon la ficha de costo sabes cuánto te queda limpio de cada servicio, y con RomaFinanzas lo llevas junto a tus citas.\n\nEscríbenos y te lo mostramos 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #RomaFinanzas #fichadecosto #finanzassalon #negociodebelleza #manicura #uñas #salondebelleza #emprendedoras #cuba #lahabana #preciosdeservicios #peluqueria #barberia #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-fichas\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   }
-  ]
- },
- {
-  "id": "reel-agenda",
-  "fecha": "2026-10-15",
-  "tipo": "Reel",
-  "titulo": "La agenda vacía se convierte en el móvil con citas",
-  "archivo": "Reel de la agenda (14 oct)",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "¿Tu agenda vacía y nadie llega a tu silla? 🪑\n\nCon RservasRoma tus clientas reservan solas, a cualquier hora, y tú ves tus citas organizadas desde el móvil.\n\n✅ Tu enlace de reservas con tu marca\n✅ Reservas 24/7, aunque estés atendiendo o durmiendo\n✅ Anticipos y recordatorios para que no se pierdan turnos\n✅ Más de 350 negocios de belleza en Cuba ya tienen su app\n\nPruébalo 15 días gratis y mira cómo se ordena tu agenda 💗\n\n👉 Entra desde el enlace del primer comentario y pide tu app."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#RservasRoma #negociosdebelleza #manicura #uñas #salondebelleza #agendaonline #reservasonline #emprendedoras #cuba #lahabana #nailsartist #barberia #peluqueria #emprendimientocubano"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-agenda\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   }
-  ]
- },
- {
-  "id": "post-recordatorios",
-  "fecha": "2026-10-13",
-  "tipo": "Post",
-  "titulo": "Recordatorios: que tus clientas no olviden su cita",
-  "archivo": "Imagen de la notificación de cita",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "¿Cuántas veces una clienta se olvidó de su cita y te quedó un hueco en la agenda? 💅\n\nCon RservasRoma tus clientas reciben un aviso en su celular 24 horas antes y 1 hora antes de su cita, sin que tú tengas que escribirle a una por una.\n\n✅ Tus clientas reservan solas desde un enlace, eligiendo servicio, día y hora libre\n✅ Aviso automático antes de la cita (en la app de tu clienta)\n✅ Tu agenda, tus profesionales y tus horarios en un solo lugar\n✅ Y si prefieres, un botón para recordárselo tú por WhatsApp\n\nPruébalo gratis por 15 días 👇\n👉 Entra desde el enlace del primer comentario y pide tu app."
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#negociodebelleza #salondebelleza #manicurista #estilista #uñas #peluqueria #emprendedora #agendadigital #citasonline #rservasroma"
-   },
-   {
-    "nombre": "Primer comentario",
-    "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-post-recordatorios\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
-   },
-   {
-    "nombre": "Texto para la historia",
-    "texto": "Que tus clientas no olviden su cita 💅\nPrueba RservasRoma gratis por 15 días.\nToca el enlace 👆"
-   },
-   {
-    "nombre": "Respuesta por mensaje",
-    "texto": "¡Hola! 💅 Con RservasRoma tus clientas reservan solas y reciben un aviso antes de su cita. Puedes probarlo gratis por 15 días. ¿Te cuento cómo empezar?"
-   }
-  ]
- },
- {
-  "id": "post-novedades-sep",
-  "fecha": "2026-09-24",
-  "tipo": "Post",
-  "titulo": "Novedades: Finanzas en tu panel",
-  "archivo": "Imagen de novedades",
-  "bloques": [
-   {
-    "nombre": "Texto de la publicación",
-    "texto": "Tu salón, más fácil esta semana ✨\n\n💰 Finanzas ya está dentro de tu panel. Mismo usuario, misma contraseña.\n💵 Si cobras en dólares, el WhatsApp que recibe tu clienta dice USD.\n📅 El enlace \"Agregar a tu calendario\" ya se puede tocar. Tu clienta no se olvida de su cita.\n🌎 ¿Tu profesional vive fuera? Ya puede entrar con su número de allá.\n\nDescarga la app nueva e instálala encima de la tuya. No pierdes nada.\n\n¿Cuál te hacía más falta? Cuéntame 👇"
-   },
-   {
-    "nombre": "Hashtags",
-    "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #uñascuba"
-   },
-   {
-    "nombre": "Texto para la historia",
-    "texto": "Novedades en RservasRoma ✨\n\n💰 Finanzas dentro de tu panel\n💵 Tus mensajes con la moneda correcta\n📅 El recordatorio del calendario ya funciona\n\nActualiza la app 👆"
-   }
-  ]
- }
+  {
+    "id": "reel-lista-espera",
+    "fecha": "2026-11-08",
+    "tipo": "Reel",
+    "titulo": "Lista de espera: la hora que se cancela se le ofrece sola a quien la esperaba",
+    "archivo": "reels/2026-11-lista-espera/salida/lista-espera-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Te cancelan la cita de las diez y esa silla se queda vacía. 💺\n\nEl último mes, en los salones con RservasRoma se cancelaron 384 citas. Y 183 clientas se quedaron sin hora porque el día estaba lleno.\n\nLa lista de espera las junta: tu clienta toca «Avísame» y elige mañana o tarde. Si alguien cancela, la app le ofrece esa hora a la primera de la lista, le avisa y se la guarda 30 minutos. Si no la coge, pasa a la siguiente. Tú no tienes que escribirle a nadie.\n\n📌 Guárdalo y mándaselo a una amiga que tenga salón."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #listadeespera #salondebelleza #manicura #uñas #citas #agendallena #nailscuba #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-lista-espera"
+      }
+    ]
+  },
+  {
+    "id": "reel-ficha-builder-gel",
+    "fecha": "2026-11-08",
+    "tipo": "Reel",
+    "titulo": "Ficha de costo de una extensión con builder gel (Oslaida, Lola Nails Studio)",
+    "archivo": "reels/2026-11-ficha-builder-gel/salida/ficha-builder-gel-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Cobras 2 500 pesos por una extensión con builder gel. ¿Cuánto te queda de verdad? 💗\n\nOslaida, de Lola Nails Studio, en La Habana, hizo su ficha de costo en Roma Finanzas: 24 productos, su tiempo (2 h 20) y lo que paga cada mes repartido entre sus servicios.\n\nEl resultado: le quedan 861 pesos limpios, y la app le dice el precio para llegar a su meta del 30 %: 2 342.\n\n📌 Tu tarea: haz la ficha del servicio que más tiempo te lleva. Guárdalo y mándaselo a una amiga que tenga salón."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #fichadecosto #salondebelleza #manicura #uñas #buildergel #nailscuba #emprendedorascuba #costosdeunsalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ficha-builder-gel"
+      }
+    ]
+  },
+  {
+    "id": "wa-actualizacion-mensaje-confirmacion-2026-11-08",
+    "fecha": "2026-11-08",
+    "tipo": "WhatsApp",
+    "seccion": "whatsapp",
+    "titulo": "Actualización del panel: mensaje de confirmación editable",
+    "archivo": "Release admin-2026-11-08-mensaje-confirmacion (APK de las dueñas)",
+    "bloques": [
+      {
+        "nombre": "Mensaje completo",
+        "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo: ahora puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita.\n\n📝 Dónde: Editar Negocio → Mensajes → «Mensaje de confirmación de la cita».\n• Ya viene escrito con el mensaje de siempre: fecha, hora, servicio, profesional, total, dirección y enlace al calendario.\n• Cámbialo a tu gusto: añade o quita lo que quieras. Lo que dejes ahí es lo que recibe tu clienta por WhatsApp.\n• Si quitas un dato, toca «+ Fecha», «+ Hora»… y vuelve a aparecer.\n• Debajo ves cómo lo verá tu clienta.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
+      },
+      {
+        "nombre": "Versión corta",
+        "texto": "Ya puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita 💗\n\nEstá en Editar Negocio → Mensajes. Ya viene escrito con el de siempre: tú le añades o le quitas lo que quieras.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
+      },
+      {
+        "nombre": "Enlace de descarga (Android)",
+        "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+      }
+    ]
+  },
+  {
+    "id": "wa-actualizacion-panel-2026-11-08",
+    "fecha": "2026-11-08",
+    "tipo": "WhatsApp",
+    "seccion": "whatsapp",
+    "titulo": "Actualización del panel: lista de espera, disponibilidad y anticipo",
+    "archivo": "Release admin-2026-11-08-lista-espera-disponibilidad (APK de las dueñas)",
+    "bloques": [
+      {
+        "nombre": "Mensaje completo",
+        "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo:\n• Lista de espera por día: cuando se libera un turno, la oferta sale sola y la hora queda guardada 30 minutos.\n• Disponibilidad: cartel nuevo con Roma para compartir tus horas libres de un tramo de fechas.\n• Anticipo: moneda propia y la opción de cobrarlo una sola vez por cita.\n• Fidelidad: tarjeta con sellos para tus clientas y descuento visible antes de cobrar.\n• Acceso al panel rediseñado.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
+      },
+      {
+        "nombre": "Versión corta",
+        "texto": "Ya está la nueva actualización de tu panel de RservasRoma 💗 Lista de espera por día, cartel de disponibilidad con Roma y más.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
+      },
+      {
+        "nombre": "Enlace de descarga (Android)",
+        "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+      }
+    ]
+  },
+  {
+    "id": "reel-30dias-01",
+    "fecha": "2026-11-08",
+    "tipo": "Reel",
+    "titulo": "30 días · Día 1: visita sin camino = clienta perdida",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-01/dia-01-v4.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Una visita sin camino no es una clienta. 💗\n\nHoy empieza el reto de 30 días: un paso por día para que tu Instagram trabaje para tu agenda.\n\n📌 Tu tarea de hoy: abre tu perfil y mira si, con un toque, alguien puede reservar contigo.\n\nGuárdalo y mándaselo a una amiga que tenga salón. Mañana, el día 2: tu bio y cinco segundos para decir qué haces."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #retode30dias #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #crecereninstagram #emprendedorascuba #reservasonline"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-30dias-01"
+      }
+    ]
+  },
+  {
+    "id": "reel-reserva-betty",
+    "fecha": "2026-11-07",
+    "tipo": "Reel",
+    "titulo": "Así reserva una clienta en Betty Nails",
+    "archivo": "reels/2026-11-reserva-betty/salida/reserva-betty-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu clienta no tiene que escribirte para pedir turno. 💅\n\nAsí reserva en Betty Nails: abre el enlace, pone su WhatsApp, elige el servicio, con quién, el día y la hora… y listo. Le avisamos un día antes y a Betty le llega la reserva por WhatsApp.\n\n¿Quieres que en tu salón sea igual? Toca el enlace del perfil. 📲"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #salondebelleza #manicura #uñas #nailscuba #agendadigital #reservasonline #dueñadesalon #emprendedorascuba #bettynails"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-reserva-betty"
+      }
+    ]
+  },
+  {
+    "id": "reel-lo-que-no-sabias-01",
+    "fecha": "2026-11-06",
+    "tipo": "Reel",
+    "titulo": "Lo que no sabías · 01: uñas, cutícula y pelo",
+    "archivo": "reels/2026-11-lo-que-no-sabias-01/salida/lo-que-no-sabias-01-v4.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Lo que creías de tus uñas y tu pelo… no era del todo cierto. 💗\n\nCuatro datos para cuidarte mejor. Guárdalo y mándaselo a quien todavía se corta la cutícula. 📌\n\nAprende más con RservasRoma."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#bellezaysalud #cuidadodeuñas #manicura #uñas #cabello #tipsdebelleza #datoscuriosos #sabiasque #salondebelleza #cuidadopersonal #mitosdebelleza #RservasRoma"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-lo-que-no-sabias-01"
+      }
+    ]
+  },
+  {
+    "id": "carrusel-manual-finanzas",
+    "fecha": "2026-11-05",
+    "tipo": "Carrusel",
+    "titulo": "Manual de Roma Finanzas (9 diapositivas)",
+    "archivo": "carrusel-manual-finanzas/salida/diapositiva-1.png … diapositiva-9.png",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Cobrar mucho no es lo mismo que ganar mucho. 💗\n\nSi ya usas RservasRoma, tu panel trae Roma Finanzas: te dice cuánto te queda limpio en cada servicio. Preparamos un manual paso a paso, con ejemplos de números, para que la prepares sin perderte.\n\nEscríbenos por WhatsApp y te lo enviamos. 📲 ¿Todavía no usas RservasRoma? En el enlace del perfil están todos los detalles para que empieces a usarla ya."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #salondebelleza #finanzasparasalones"
+      },
+      {
+        "nombre": "Texto alternativo de la portada",
+        "texto": "Roma, la pug de RservasRoma, con una calculadora. Texto: ¿Cuánto te queda limpio por servicio? Ya está el manual de Roma Finanzas."
+      }
+    ]
+  },
+  {
+    "id": "reel-whatsapp-11",
+    "fecha": "2026-11-03",
+    "tipo": "Reel",
+    "titulo": "Deja de agendar por WhatsApp a las 11",
+    "archivo": "reels/2026-11-whatsapp-11/salida/whatsapp-11-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "¿Sigues agendando por WhatsApp a las 11 de la noche? 🌙\n\nSales del salón y empieza el segundo turno: \"¿tienes hueco el sábado?\", \"¿cuánto cuesta?\"… Y mientras respondes una, otra clienta ya reservó en otro salón.\n\nCon RservasRoma tu clienta abre tu enlace y reserva sola:\n✅ Elige servicio, día y hora\n✅ Deja su anticipo\n✅ A ti te llega el aviso y solo confirmas\n\nTu salón sigue abierto para reservar. Tú, a descansar. 💗\n\n¿A qué hora contestas tu último mensaje del día? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #salondebelleza #manicurista"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-whatsapp11"
+      }
+    ]
+  },
+  {
+    "id": "reel-cobras-2500",
+    "fecha": "2026-11-03",
+    "tipo": "Reel",
+    "titulo": "Finanzas Roma: Lisandra cobra 2.500",
+    "archivo": "reels/2026-11-cobras-2500/salida/cobras-2500-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Cobras 2.500 por un set… ¿y cuánto te queda de verdad? 💸\n\nDe ahí sale el builder gel, el top coat, las limas, la luz y lo que pagas por tu app. Por eso a fin de mes no da la cuenta.\n\nEn RomaFinanzas (incluido en tu app de RservasRoma):\n✅ Eliges el servicio\n✅ Tocas los productos que usas\n✅ Ves al momento cuánto te queda limpio\n\nAntes de subir o bajar un precio, mira cuánto te deja de verdad. 💗"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #manicurista #uñasacrilicas #buildergel #salondeuñas #negociodebelleza #finanzasparaemprendedoras #emprendedoras #cuba #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con RomaFinanzas incluido, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-cobras2500\n\n¿Ya la tienes? Entra a Finanzas desde tu panel y toca «Calcula cuánto te queda». 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-formatos-ig",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "¿Para qué sirve cada formato de Instagram? (RomaCrece)",
+    "archivo": "reels/2026-11-formatos-ig/salida/formatos-ig-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "¿Publicas sin saber para qué sirve cada cosa? 🤔\n\n1️⃣ Reels → atraen gente nueva\n2️⃣ Carruseles → enseñan y hacen que te guarden\n3️⃣ Historias → ahí se vende: tus huecos libres y tu enlace de reservas\n4️⃣ Publicaciones fijas → muestran tu trabajo y dan confianza\n5️⃣ Directos → conectan y resuelven dudas al momento\n\n¿No sabes qué publicar cada día? En RomaCrece, que viene dentro de tu app de RservasRoma, el Planificador te arma la semana mezclando cada formato. 📅\n\nGuárdalo para tu próxima semana 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #instagramtips #marketingdigital #reels #carruseles #historias #salondebelleza #negociodebelleza #emprendedoras #cuba #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Aún no tienes tu app de reservas con RomaCrece incluido? Pídela con 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-formatos\n\nYa la tienes: entra a RomaCrece desde tu panel y toca Planificador. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-yami-estafa",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Yami: ¿Me estafaron? (testimonio Luxury Moon)",
+    "archivo": "reels/2026-11-clips-reellls/salida/yami-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "«¿Me estafaron? Sí, oíste bien.» 😱\n\nYami, de Luxury Moon Varadero, nos lo cuenta:\n✅ La app le avisa un día antes quién tiene turno\n✅ Sus clientas reservan solas, sin que ella esté pendiente del teléfono\n✅ Tiene su catálogo con las fotos de sus trabajos para que la clienta elija antes de la cita\n\n«Me dieron muchísimo más de lo que pagué.» 💗 Gracias, Yami.\n\n¿Quieres que tu salón funcione así? Te leo 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #testimonio #lashista #pestañas #cosmetologia #varadero #salondebelleza #reservasonline #agendaonline #negociodebelleza #emprendedoras #cuba #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-yami\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      },
+      {
+        "nombre": "Etiqueta",
+        "texto": "Etiqueta a @luxury.moon.varadero en la publicación y como colaboradora."
+      }
+    ]
+  },
+  {
+    "id": "reel-dias-cliente",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Día 1, día 7, día 30: perdía una clienta cada día",
+    "archivo": "reels/2026-11-dias-cliente/salida/reel-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Perdía una clienta cada día… y no sabía por qué. 💔\n\nDía 1: respondió el precio 4 horas después.\nDía 7: dos clientas a la misma hora.\nDía 30: un cuaderno lleno de citas y la mitad no llegó.\n\nLa competencia de enfrente tenía lo mismo… menos una cosa: un enlace en su Instagram donde las clientas reservan solas, con día, hora y anticipo.\n\n¿Cuál de los tres días te ha pasado a ti? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #reservasonline #agendaonline #salondebelleza #manicura #uñas #negociodebelleza #emprendedoras #cuba #lahabana #artemisa #nailsartist #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-dias\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista, con tu enlace para el Instagram. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-material-acabado",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "Se te acabó el material en plena cita",
+    "archivo": "reels/2026-11-material-acabado/salida/reel-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Clienta sentada, uñas preparadas… y el gel se acabó. 😩\n\nNo vuelvas a enterarte con la clienta delante. En RomaFinanzas anotas cuántos pomos tienes y cada servicio que cobras descuenta solo lo que usaste.\n\nCuando a un producto le quedan menos de 20 servicios, la app te avisa para que lo repongas a tiempo. Sin configurar nada.\n\n¿Qué material es el que siempre se te acaba sin avisar? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #inventario #materialesdeuñas #manicura #uñas #gel #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-material\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-pomo-topcoat",
+    "fecha": "2026-11-02",
+    "tipo": "Reel",
+    "titulo": "El pomo de top coat también te cobra",
+    "archivo": "reels/2026-11-pomo-topcoat/salida/reel-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Ese pomo que compraste una vez… lo vas pagando un poquito en cada clienta. 💅\n\nSi un top coat te alcanza, por ejemplo, para 40 usos, cada clienta se lleva su parte. Y lo mismo pasa con la base, el gel y las limas.\n\nEn RomaFinanzas anotas lo que te costó cada producto y para cuántos usos alcanza, y la ficha de costo suma lo que gastas en cada servicio. Así sabes cuánto te queda limpio de verdad.\n\n¿Tú ya sabes cuánto te cuesta cada clienta en materiales? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #fichadecosto #manicura #uñas #topcoat #materialesdeuñas #negociodebelleza #salondebelleza #emprendedoras #cuba #lahabana #manicuristacubana #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-topcoat\n\nRomaFinanzas viene incluido. Te escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-ismaray-precios",
+    "fecha": "2026-10-30",
+    "tipo": "Reel",
+    "titulo": "Ismaray: bajar precios no llena la agenda",
+    "archivo": "reels/2026-10-ismaray-precios/salida/reel-v1-toma-0m32.mp4 (o la de 0m31)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Bajar precios para llenar la agenda casi nunca funciona. 💗\n\nIsmaray, de Artemisa, estaba a punto de hacerlo. Lo que sí suma son tres pasos:\n\n1️⃣ Especialízate (por ejemplo, uñas para novias)\n2️⃣ Muestra tu valor: tu proceso y tus materiales\n3️⃣ Cuida la experiencia: responde rápido y regala un detalle\n\nSegún PwC (2018), las clientas pagan hasta un 16 % más por una mejor experiencia.\n\nY antes de tocar un precio, mira tu ficha de costo en RomaFinanzas, incluido en RservasRoma.\n\n¿Cuál de los tres pasos te falta? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #preciosdeservicios #negociodebelleza #salondebelleza #manicura #uñas #uñasparanovias #emprendedoras #artemisa #cuba #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ismaray\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-fichas-costo",
+    "fecha": "2026-10-30",
+    "tipo": "Reel",
+    "titulo": "La ficha de costo: cuánto te queda limpio",
+    "archivo": "reels/2026-10-fichas-costo/salida/reel-v3.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Poner el precio «a ojo» te cuesta dinero sin que lo notes. 💗\n\nCon la ficha de costo sabes cuánto te queda limpio de cada servicio, y con RomaFinanzas lo llevas junto a tus citas.\n\nEscríbenos y te lo mostramos 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaFinanzas #fichadecosto #finanzassalon #negociodebelleza #manicura #uñas #salondebelleza #emprendedoras #cuba #lahabana #preciosdeservicios #peluqueria #barberia #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-fichas\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
+    "id": "reel-agenda",
+    "fecha": "2026-10-15",
+    "tipo": "Reel",
+    "titulo": "La agenda vacía se convierte en el móvil con citas",
+    "archivo": "Reel de la agenda (14 oct)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "¿Tu agenda vacía y nadie llega a tu silla? 🪑\n\nCon RservasRoma tus clientas reservan solas, a cualquier hora, y tú ves tus citas organizadas desde el móvil.\n\n✅ Tu enlace de reservas con tu marca\n✅ Reservas 24/7, aunque estés atendiendo o durmiendo\n✅ Anticipos y recordatorios para que no se pierdan turnos\n✅ Más de 350 negocios de belleza en Cuba ya tienen su app\n\nPruébalo 15 días gratis y mira cómo se ordena tu agenda 💗\n\n👉 Entra desde el enlace del primer comentario y pide tu app."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #negociosdebelleza #manicura #uñas #salondebelleza #agendaonline #reservasonline #emprendedoras #cuba #lahabana #nailsartist #barberia #peluqueria #emprendimientocubano"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-agenda\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      }
+    ]
+  },
+  {
+    "id": "post-recordatorios",
+    "fecha": "2026-10-13",
+    "tipo": "Post",
+    "titulo": "Recordatorios: que tus clientas no olviden su cita",
+    "archivo": "Imagen de la notificación de cita",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "¿Cuántas veces una clienta se olvidó de su cita y te quedó un hueco en la agenda? 💅\n\nCon RservasRoma tus clientas reciben un aviso en su celular 24 horas antes y 1 hora antes de su cita, sin que tú tengas que escribirle a una por una.\n\n✅ Tus clientas reservan solas desde un enlace, eligiendo servicio, día y hora libre\n✅ Aviso automático antes de la cita (en la app de tu clienta)\n✅ Tu agenda, tus profesionales y tus horarios en un solo lugar\n✅ Y si prefieres, un botón para recordárselo tú por WhatsApp\n\nPruébalo gratis por 15 días 👇\n👉 Entra desde el enlace del primer comentario y pide tu app."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#negociodebelleza #salondebelleza #manicurista #estilista #uñas #peluqueria #emprendedora #agendadigital #citasonline #rservasroma"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 Pide tu app de reservas con 15 días gratis aquí:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-post-recordatorios\n\nTe escribimos por WhatsApp y en 24–72 h tu app está lista. 💗"
+      },
+      {
+        "nombre": "Texto para la historia",
+        "texto": "Que tus clientas no olviden su cita 💅\nPrueba RservasRoma gratis por 15 días.\nToca el enlace 👆"
+      },
+      {
+        "nombre": "Respuesta por mensaje",
+        "texto": "¡Hola! 💅 Con RservasRoma tus clientas reservan solas y reciben un aviso antes de su cita. Puedes probarlo gratis por 15 días. ¿Te cuento cómo empezar?"
+      }
+    ]
+  },
+  {
+    "id": "post-novedades-sep",
+    "fecha": "2026-09-24",
+    "tipo": "Post",
+    "titulo": "Novedades: Finanzas en tu panel",
+    "archivo": "Imagen de novedades",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu salón, más fácil esta semana ✨\n\n💰 Finanzas ya está dentro de tu panel. Mismo usuario, misma contraseña.\n💵 Si cobras en dólares, el WhatsApp que recibe tu clienta dice USD.\n📅 El enlace \"Agregar a tu calendario\" ya se puede tocar. Tu clienta no se olvida de su cita.\n🌎 ¿Tu profesional vive fuera? Ya puede entrar con su número de allá.\n\nDescarga la app nueva e instálala encima de la tuya. No pierdes nada.\n\n¿Cuál te hacía más falta? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #uñascuba"
+      },
+      {
+        "nombre": "Texto para la historia",
+        "texto": "Novedades en RservasRoma ✨\n\n💰 Finanzas dentro de tu panel\n💵 Tus mensajes con la moneda correcta\n📅 El recordatorio del calendario ya funciona\n\nActualiza la app 👆"
+      }
+    ]
+  }
 ]
