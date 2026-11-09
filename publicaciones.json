@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-30dias-02",
+    "fecha": "2026-11-09",
+    "tipo": "Reel",
+    "titulo": "30 días · Día 2: tu bio es tu letrero",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-02/dia-02-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu bio tiene cinco segundos para decir qué haces. ⏱️\n\nMari puso «Amo lo que hago ✨». La clienta no supo si hacía uñas, pelo o pestañas, y se fue.\nLis puso qué hace, dónde está y cómo reservar. Su vecina lo entendió en cinco segundos.\n\n✅ Tu tarea de hoy: enséñale tu bio a alguien cinco segundos. ¿Sabe qué haces, dónde y cómo reservar?\n\nDía 2 de 30. Mañana: tu nombre y tu foto.\n📌 Guárdalo y mándaselo a una amiga con salón."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #retode30dias #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #crecereninstagram #emprendedorascuba #reservasonline"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-30dias-02"
+      }
+    ]
+  },
+  {
     "id": "reel-lista-espera",
     "fecha": "2026-11-08",
     "tipo": "Reel",
