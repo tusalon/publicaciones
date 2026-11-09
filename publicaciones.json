@@ -1,5 +1,68 @@
 [
   {
+    "id": "publicacion-bio-letrero",
+    "fecha": "2026-11-10",
+    "tipo": "Publicación",
+    "titulo": "Tu bio es tu letrero (imagen)",
+    "archivo": "contenido-diario/2026-11-10/salida/publicacion.png",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu bio es tu letrero. 🪧\n\nEn 5 segundos tiene que decir qué haces, dónde estás y cómo reservar. Si falta una, la clienta se va sin escribirte.\n\nRevisa la tuya hoy y cuéntame en comentarios: ¿pasa la prueba? 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #biodeinstagram #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-publicacion-bio"
+      }
+    ]
+  },
+  {
+    "id": "video7-prueba-bio",
+    "fecha": "2026-11-10",
+    "tipo": "Video 7 s",
+    "titulo": "¿Tu bio pasa la prueba de 5 segundos? (antes y después)",
+    "archivo": "contenido-diario/2026-11-10/salida/video-7s.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "¿Tu bio pasa la prueba de 5 segundos? ⏱️\n\nAntes: «Amo lo que hago ✨».\nDespués: qué hace, dónde está y cómo reservar.\n\n📌 Guárdalo para cuando cambies la tuya."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #biodeinstagram #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-video7-bio"
+      }
+    ]
+  },
+  {
+    "id": "carrusel-bios-para-copiar",
+    "fecha": "2026-11-10",
+    "tipo": "Carrusel",
+    "titulo": "5 bios de salón para copiar (8 imágenes)",
+    "archivo": "contenido-diario/2026-11-10/salida/carrusel-1.png … carrusel-8.png",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "5 bios de salón para copiar y pegar 💅✂️👁\n\nCambia lo que está entre [corchetes] y en cinco minutos tienes una bio que responde lo que tu clienta necesita saber: qué haces, dónde estás y cómo reservar.\n\nUñas, pelo, pestañas y cejas, estética facial y salón completo.\n\n📌 Guárdalo para cuando cambies la tuya y mándaselo a una amiga con salón.\n¿Cuál es la tuya? Dímelo en comentarios 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #biodeinstagram #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-carrusel-bios"
+      }
+    ]
+  },
+  {
     "id": "reel-30dias-02",
     "fecha": "2026-11-09",
     "tipo": "Reel",
