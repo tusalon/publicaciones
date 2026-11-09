@@ -1,5 +1,27 @@
 [
  {
+  "id": "wa-actualizacion-mensaje-confirmacion-2026-11-08",
+  "fecha": "2026-11-08",
+  "tipo": "WhatsApp",
+  "seccion": "whatsapp",
+  "titulo": "Actualización del panel: mensaje de confirmación editable",
+  "archivo": "Release admin-2026-11-08-mensaje-confirmacion (APK de las dueñas)",
+  "bloques": [
+   {
+    "nombre": "Mensaje completo",
+    "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo: ahora puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita.\n\n📝 Dónde: Editar Negocio → Mensajes → «Mensaje de confirmación de la cita».\n• Ya viene escrito con el mensaje de siempre: fecha, hora, servicio, profesional, total, dirección y enlace al calendario.\n• Cámbialo a tu gusto: añade o quita lo que quieras. Lo que dejes ahí es lo que recibe tu clienta por WhatsApp.\n• Si quitas un dato, toca «+ Fecha», «+ Hora»… y vuelve a aparecer.\n• Debajo ves cómo lo verá tu clienta.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
+   },
+   {
+    "nombre": "Versión corta",
+    "texto": "Ya puedes cambiar el mensaje de confirmación que reciben tus clientas, sin perder los datos de su cita 💗\n\nEstá en Editar Negocio → Mensajes. Ya viene escrito con el de siempre: tú le añades o le quitas lo que quieras.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
+   },
+   {
+    "nombre": "Enlace de descarga (Android)",
+    "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+   }
+  ]
+ },
+ {
   "id": "wa-actualizacion-panel-2026-11-08",
   "fecha": "2026-11-08",
   "tipo": "WhatsApp",
