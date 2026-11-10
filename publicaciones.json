@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-recordatorios",
+    "fecha": "2026-11-10",
+    "tipo": "Reel",
+    "titulo": "Recordatorios: «Tu clienta no vino» (silla ocupada)",
+    "archivo": "reels/2026-11-recordatorios/salida/recordatorios-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu clienta no vino. Y nadie le avisó que se iba a olvidar. 🪑\n\nUn recordatorio que funciona lleva tres cosas:\n1️⃣ Si la clienta instaló la app, un aviso un día antes y otro una hora antes.\n2️⃣ El WhatsApp ya escrito, con la hora y el servicio.\n3️⃣ Un solo toque.\n\n📌 Guárdalo y mándaselo a esa amiga con salón… y esa amiga eres tú.\n\n🎁 Las 5 bios para copiar y pegar están en el enlace de mi perfil."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #salondebelleza #manicura #uñas #nailscuba #recordatoriodecita #citasperdidas #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-recordatorios"
+      }
+    ]
+  },
+  {
     "id": "publicacion-bio-letrero",
     "fecha": "2026-11-10",
     "tipo": "Publicación",
