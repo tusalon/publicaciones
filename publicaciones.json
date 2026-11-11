@@ -1,5 +1,31 @@
 [
   {
+    "id": "iconos-tarjeta-fidelidad",
+    "seccion": "iconos",
+    "fecha": "2026-11-11",
+    "tipo": "Iconos 3D",
+    "titulo": "Tarjeta de fidelidad en el móvil (3 iconos)",
+    "archivo": "Guardar en reels/2026-11-tarjeta-fidelidad/iconos/ como corazon, regalo y campana",
+    "bloques": [
+      {
+        "nombre": "Cómo usarlos",
+        "texto": "Pega cada prompt en Nano Banana y descarga con fondo verde. Pásamelos por el chat o guárdalos con el nombre indicado; yo quito el verde y los uso en el Reel."
+      },
+      {
+        "nombre": "Icono: Corazón (el sello) (corazon)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Un corazón grueso e inflado, rosa fucsia brillante con un reflejo de luz suave arriba a la izquierda, como un sello de fidelidad, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      },
+      {
+        "nombre": "Icono: Regalo (regalo)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Una caja de regalo cuadrada: cuerpo rosa fucsia brillante, lazo y cinta en blanco nácar, el lazo grande y esponjoso, tapa ligeramente levantada, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      },
+      {
+        "nombre": "Icono: Campana de aviso (campana)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Una campana de notificación: cuerpo rosa fucsia brillante, badajo blanco nácar, un pequeño círculo blanco nácar de aviso arriba a la derecha, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      }
+    ]
+  },
+  {
     "id": "reel-30dias-03",
     "fecha": "2026-11-10",
     "tipo": "Reel",
