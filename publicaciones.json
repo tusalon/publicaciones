@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-30dias-03",
+    "fecha": "2026-11-10",
+    "tipo": "Reel",
+    "titulo": "30 días · Día 3: tu nombre y tu foto",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-03/dia-03-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu clienta te buscó. Y no te encontró. 🔎\n\nEscribió «uñas Centro Habana» y tú no saliste.\nMari se llama «Mari ✨» y su foto es un paisaje. Lis se llama «Lis · Uñas Centro Habana» y su foto es su cara, grande y clara.\n\n✅ Tu tarea de hoy: búscate como si fueras clienta. ¿Apareces?\n\nDía 3 de 30. Mañana: tu enlace.\n📌 Guárdalo y mándaselo a esa amiga con salón… y esa amiga eres tú.\n\n🎁 Las 5 bios para copiar están en el enlace de mi perfil."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #retode30dias #salondebelleza #manicura #uñas #nailscuba #instagramparasalones #crecereninstagram #emprendedorascuba #reservasonline"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-30dias-03"
+      }
+    ]
+  },
+  {
     "id": "iconos-dia-03",
     "seccion": "iconos",
     "fecha": "2026-11-10",
