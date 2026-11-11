@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-tarjeta-fidelidad",
+    "fecha": "2026-11-11",
+    "tipo": "Reel",
+    "titulo": "Tarjeta de fidelidad en el móvil: «las tarjetas de cartón desaparecen»",
+    "archivo": "reels/2026-11-tarjeta-fidelidad/salida/tarjeta-fidelidad-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Algo que no te habían dicho: las tarjetas de cartón desaparecen. 🤫\n\nSe pierden en el bolso, se mojan, se quedan en casa.\n\nCon RservasRoma la tarjeta vive en el móvil de tu clienta: un sello por cada cita completada. Cuando le falta una, le sale «¡Solo te falta 1!», y si instaló la app hasta le llega el aviso. Su próxima cita lleva el descuento que tú elijas.\n\n📌 Guárdalo y mándaselo a esa amiga con salón… y esa amiga eres tú.\n\n🎁 Pide tu app de reservas, 15 días gratis, en el enlace de mi perfil."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #RomaCrece #salondebelleza #manicura #uñas #nailscuba #fidelizacion #clientasfieles #emprendedorascuba #duenadesalon"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-tarjeta-fidelidad"
+      }
+    ]
+  },
+  {
     "id": "iconos-tarjeta-fidelidad",
     "seccion": "iconos",
     "fecha": "2026-11-11",
