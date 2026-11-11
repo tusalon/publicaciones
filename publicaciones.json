@@ -1,5 +1,35 @@
 [
   {
+    "id": "iconos-dia-03",
+    "seccion": "iconos",
+    "fecha": "2026-11-10",
+    "tipo": "Iconos 3D",
+    "titulo": "Día 3 · Tu nombre y tu foto (4 iconos para la órbita)",
+    "archivo": "Guardar en reels/2026-11-dia-03/iconos/ como lupa, pin, esmalte y retrato",
+    "bloques": [
+      {
+        "nombre": "Cómo usarlos",
+        "texto": "Pega cada prompt en Nano Banana y descarga con fondo verde. Guarda cada icono con el nombre indicado en reels/2026-11-dia-03/iconos/ o pásamelo en el chat; yo quito el verde y lo uso en la órbita."
+      },
+      {
+        "nombre": "Icono: Lupa de búsqueda (lupa)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Una lupa de búsqueda: aro grueso rosa fucsia brillante, cristal translúcido con un reflejo de luz diagonal, mango blanco nácar, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      },
+      {
+        "nombre": "Icono: Pin de ubicación (pin)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Un pin de ubicación de mapa en forma de gota, rosa fucsia brillante, con un círculo blanco nácar en el centro, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      },
+      {
+        "nombre": "Icono: Frasco de esmalte (esmalte)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Un frasco de esmalte de uñas: cuerpo de cristal rosa fucsia brillante con esmalte visible, tapa negra pulida con mango alargado, una gota de esmalte en la base, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      },
+      {
+        "nombre": "Icono: Marco de retrato (retrato)",
+        "texto": "Icono 3D renderizado estilo emoji moderno de lujo, material glossy tipo plástico y porcelana pulida con reflejos de luz suaves y especulares, colores vibrantes saturados en rosa fucsia #FF1493 y blanco nácar. Un marco de retrato circular: aro grueso rosa fucsia brillante y dentro la silueta simple de una persona (cabeza y hombros) en blanco nácar sobre fondo rosa suave, en ángulo ligeramente isométrico. El objeto flota, centrado, sin sombra proyectada sobre el fondo. Sin texto. Fondo verde croma sólido y uniforme #00FF00 sin degradado, el verde no se refleja en el objeto. Alta resolución, 1:1."
+      }
+    ]
+  },
+  {
     "id": "reel-recordatorios",
     "fecha": "2026-11-10",
     "tipo": "Reel",
