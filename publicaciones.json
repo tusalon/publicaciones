@@ -1,5 +1,27 @@
 [
   {
+    "id": "wa-actualizacion-finanzas-sin-internet-2026-11-12",
+    "fecha": "2026-11-12",
+    "tipo": "WhatsApp",
+    "seccion": "whatsapp",
+    "titulo": "Actualización del panel: Roma Finanzas sin internet",
+    "archivo": "Release admin-2026-11-12-finanzas-sin-internet (APK de las dueñas)",
+    "bloques": [
+      {
+        "nombre": "Mensaje completo",
+        "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo: ahora puedes entrar a Roma Finanzas aunque no tengas internet 💰\n\n📴 Cómo:\n• Cuando el panel se quede sin conexión, te sale el botón «Abrir Roma Finanzas (sin internet)».\n• Anota tus cobros y gastos como siempre: se guardan en tu teléfono y se sincronizan cuando vuelva la conexión.\n• Para que funcione, entra a Finanzas al menos una vez con internet. Después te recuerda hasta 30 días sin conectarte.\n\n📲 Android: descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 iPhone y navegador: no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\nCualquier duda, escríbeme por aquí 💗"
+      },
+      {
+        "nombre": "Versión corta",
+        "texto": "Ya puedes entrar a Roma Finanzas aunque no tengas internet 💰\n\nSi el panel se queda sin conexión, te sale el botón «Abrir Roma Finanzas». Entra una vez con internet y después te recuerda hasta 30 días.\n\nAndroid: descarga e instala encima de la que tienes:\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\niPhone: cierra y abre la app."
+      },
+      {
+        "nombre": "Enlace de descarga (Android)",
+        "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+      }
+    ]
+  },
+  {
     "id": "reel-tarjeta-fidelidad",
     "fecha": "2026-11-11",
     "tipo": "Reel",
