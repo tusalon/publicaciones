@@ -1,5 +1,138 @@
 [
   {
+    "id": "post-14nov-1",
+    "fecha": "2026-11-14",
+    "tipo": "Post",
+    "titulo": "Una silla vacía a las 2:00 PM",
+    "archivo": "contenido-diario/2026-11-14/salida/pub-1-silla.png · 9:00 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Una silla vacía a las 2:00 PM es un turno que ya no se vende. 🪑\n\nCuando la clienta paga un anticipo, el turno queda separado de verdad. Ella se compromete y tú no esperas con la agenda abierta.\n\n¿A ti también te han dejado plantada? Cuéntame 👇"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #agendadigital #reservasonline #anticipo #clientaverificada"
+      }
+    ]
+  },
+  {
+    "id": "post-14nov-2",
+    "fecha": "2026-11-14",
+    "tipo": "Post",
+    "titulo": "Tú confirmas con un toque",
+    "archivo": "contenido-diario/2026-11-14/salida/pub-2-confirma.png · 12:30 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "La cita con anticipo queda en Pendiente hasta que revisas la transferencia. ✅\n\nCuando la confirmas, pasa a Confirmada y tu clienta lo ve en su cita. Sin buscar el comprobante entre los mensajes.\n\nTodo en el panel de tu salón."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #agendadigital #reservasonline #anticipo #clientaverificada"
+      }
+    ]
+  },
+  {
+    "id": "post-14nov-3",
+    "fecha": "2026-11-14",
+    "tipo": "Post",
+    "titulo": "3 citas seguidas y ganas la insignia",
+    "archivo": "contenido-diario/2026-11-14/salida/pub-3-verificada.png · 16:00 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tus clientas fieles también merecen algo. 💗\n\nEn RservasRoma, la clienta que completa 3 citas seguidas gana la insignia «Clienta verificada» y reserva sin anticipo en tu salón.\n\nSi falta a una cita, vuelve a empezar. Y tú decides: puedes activarla o apagarla en tu salón, y marcar a cada clienta como verificada o no desde su ficha.\n\nSolo funciona si tu salón cobra anticipo."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #agendadigital #reservasonline #anticipo #clientaverificada"
+      }
+    ]
+  },
+  {
+    "id": "post-14nov-4",
+    "fecha": "2026-11-14",
+    "tipo": "Post",
+    "titulo": "Que no se le olvide",
+    "archivo": "contenido-diario/2026-11-14/salida/pub-4-recordatorios.png · 19:30 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Que no se le olvide su cita. ⏰\n\nTu clienta recibe su recordatorio por WhatsApp 24 horas y 1 hora antes, sin que tú escribas.\n\nMenos «se me pasó» en tu agenda.\n\n¿Quieres probarlo en tu salón? Escríbenos por WhatsApp: +1 515 465 0340\n🔗 tusalon.github.io/HouseofRservasRoma"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#rservasroma #salondebelleza #manicuristacubana #emprendedorascuba #cuba #lahabana #negociodebelleza #agendadigital #reservasonline #anticipo #clientaverificada"
+      }
+    ]
+  },
+  {
+    "id": "hist-14nov-1",
+    "fecha": "2026-11-14",
+    "tipo": "Historia",
+    "titulo": "Buenos días domingo",
+    "archivo": "contenido-diario/2026-11-14/salida/hist-1-buenos-dias.png · 7:00 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto en la historia",
+        "texto": "Buenos días ☀️\nTu tiempo vale. Cuida cada turno.\nFeliz domingo 💗"
+      }
+    ]
+  },
+  {
+    "id": "hist-14nov-2",
+    "fecha": "2026-11-14",
+    "tipo": "Historia",
+    "titulo": "¿Cuántos turnos se te cayeron?",
+    "archivo": "contenido-diario/2026-11-14/salida/hist-2-pregunta.png · 10:30 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto en la historia",
+        "texto": "¿Cuántos turnos se te cayeron este mes? 🪑\nRespóndeme por mensaje."
+      }
+    ]
+  },
+  {
+    "id": "hist-14nov-3",
+    "fecha": "2026-11-14",
+    "tipo": "Historia",
+    "titulo": "Tú decides quién es verificada",
+    "archivo": "contenido-diario/2026-11-14/salida/hist-3-tu-decides.png · 14:00 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto en la historia",
+        "texto": "Tú decides quién es clienta verificada.\nAutomática, o la marcas tú desde su ficha."
+      }
+    ]
+  },
+  {
+    "id": "hist-14nov-4",
+    "fecha": "2026-11-14",
+    "tipo": "Historia",
+    "titulo": "Activa la insignia en tu salón",
+    "archivo": "contenido-diario/2026-11-14/salida/hist-4-tu-salon.png · 17:30 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto en la historia",
+        "texto": "¿Te gusta la insignia? Actívala en tu salón.\nSolo funciona si cobras anticipo. La apagas cuando quieras."
+      }
+    ]
+  },
+  {
+    "id": "hist-14nov-5",
+    "fecha": "2026-11-14",
+    "tipo": "Historia",
+    "titulo": "Menos sillas vacías",
+    "archivo": "contenido-diario/2026-11-14/salida/hist-5-cierre.png · 20:30 (Cuba)",
+    "bloques": [
+      {
+        "nombre": "Texto en la historia",
+        "texto": "Menos sillas vacías.\nEscríbenos por WhatsApp: +1 515 465 0340\ntusalon.github.io/HouseofRservasRoma"
+      }
+    ]
+  },
+  {
     "id": "wa-actualizacion-finanzas-sin-internet-2026-11-12",
     "fecha": "2026-11-12",
     "tipo": "WhatsApp",
