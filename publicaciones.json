@@ -1,5 +1,27 @@
 [
   {
+    "id": "wa-actualizacion-clienta-verificada-2026-11-13",
+    "fecha": "2026-11-13",
+    "tipo": "WhatsApp",
+    "seccion": "whatsapp",
+    "titulo": "Actualización del panel: Clienta verificada y novedades",
+    "archivo": "Release admin-2026-11-13-clienta-verificada (APK de las dueñas)",
+    "bloques": [
+      {
+        "nombre": "Mensaje completo",
+        "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo de estos días:\n\n✅ Clienta verificada: la clienta que completa 3 citas seguidas gana la insignia y reserva sin anticipo en tu salón. Si falta a una cita, vuelve a empezar. (Solo funciona si tu salón cobra anticipo.)\n\n👤 Tú decides: en la ficha de cada clienta puedes dejarla en Automática, marcarla Verificada o No verificada. Y en «Editar negocio» puedes activar o apagar la insignia en todo tu salón.\n\n🕒 Horarios más fáciles: eliges la primera y la última cita, y las excepciones se arman en 3 pasos. Te avisa de las citas que quedan afectadas.\n\n🔄 Reprogramar con aviso: cuando cambias una cita, tu clienta recibe el aviso completo por notificación y por WhatsApp. También puedes añadir servicios a una cita ya reservada.\n\n💰 Roma Finanzas sin internet: si el panel se queda sin conexión, te sale el botón «Abrir Roma Finanzas (sin internet)».\n\n📲 TU PANEL (Android): descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 TU PANEL (iPhone y navegador): no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\n💗 APP PARA TUS CLIENTAS (Android): pásales este enlace para que reserven desde su celular:\nhttps://github.com/tusalon/rservasroma-clientes/releases/latest/download/rservasroma-clientes.apk\nAl abrirla, entran con el enlace de tu salón. Si tienen iPhone, que abran tu enlace en Safari → Compartir → Añadir a pantalla de inicio.\n\nCualquier duda, escríbeme por aquí 💗"
+      },
+      {
+        "nombre": "Enlace del panel (Android)",
+        "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+      },
+      {
+        "nombre": "Enlace de la app de las clientas (Android)",
+        "texto": "https://github.com/tusalon/rservasroma-clientes/releases/latest/download/rservasroma-clientes.apk"
+      }
+    ]
+  },
+  {
     "id": "post-14nov-1",
     "fecha": "2026-11-14",
     "tipo": "Post",
