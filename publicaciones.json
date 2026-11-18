@@ -1,5 +1,26 @@
 [
   {
+    "id": "reel-tasa-cup-usd",
+    "fecha": "2026-11-18",
+    "tipo": "Reel",
+    "titulo": "RomaFinanzas: la tasa de cambio en tu ficha de costo («¿se movió tu precio?»)",
+    "archivo": "reels/2026-11-tasa-cup-usd/salida/tasa-cup-usd-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu ficha de costo es tan buena como la tasa que usa. 💱\n\nSi compras en dólares y cobras en pesos, la tasa de hace un mes ya no es la de hoy. En RomaFinanzas pones la tasa de hoy y, si cambió durante el mes, la de esas fechas: tus cobros y gastos se recalculan solos.\n\nGuárdalo y mándaselo a una amiga con salón. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RomaFinanzas #RservasRoma #salondebelleza #manicura #uñas #nailscuba #preciosuñas #costodeservicios #tasadecambio #finanzasparasalones #emprendedorascuba #cuba"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-tasa-cup-usd"
+      }
+    ]
+  },
+  {
     "id": "wa-actualizacion-clienta-verificada-2026-11-13",
     "fecha": "2026-11-13",
     "tipo": "WhatsApp",
