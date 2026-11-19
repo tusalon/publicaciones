@@ -1,5 +1,26 @@
 [
   {
+    "id": "tudespensa-aviso-numero-oficial",
+    "fecha": "2026-11-19",
+    "tipo": "Publicación",
+    "titulo": "Tu Despensa: aviso del único número oficial",
+    "archivo": "",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "⚠️ Cuidado con las copias.\n\nTu Despensa tiene un solo número oficial: +53 53933247 (WhatsApp).\n\nAntes de enviar cualquier depósito:\n1️⃣ Escríbenos por WhatsApp a ese número.\n2️⃣ Confirma con nosotros la dirección de depósito.\n3️⃣ Envía solo USDT por red BEP20. En otra red (TRC20, ERC20…) el dinero puede perderse y no se recupera.\n\nSi alguien te escribe desde otro número o te da otra dirección, no es de la tienda.\n\nComparte este aviso con quien compre por aquí. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#TuDespensa #suscripcionesdigitales #cuba #usdt #compraSegura #avisoimportante"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "🛒 Catálogo y cómo comprar:\nhttps://tudespensa.github.io/tu-despensa/?fuente=ig-aviso-oficial"
+      }
+    ]
+  },
+  {
     "id": "reel-dia-06-poco-cada-semana",
     "fecha": "2026-11-19",
     "tipo": "Reel",
