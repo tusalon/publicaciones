@@ -1,22 +1,26 @@
 [
   {
-    "id": "tudespensa-aviso-numero-oficial",
+    "id": "tudespensa-seguridad-que-arreglar",
     "fecha": "2026-11-19",
-    "tipo": "Publicación",
-    "titulo": "Tu Despensa: aviso del único número oficial",
+    "tipo": "Nota",
+    "titulo": "Tu Despensa web: qué hay que arreglar (seguridad)",
     "archivo": "",
     "bloques": [
       {
-        "nombre": "Texto de la publicación",
-        "texto": "⚠️ Cuidado con las copias.\n\nTu Despensa tiene un solo número oficial: +53 53933247 (WhatsApp).\n\nAntes de enviar cualquier depósito:\n1️⃣ Escríbenos por WhatsApp a ese número.\n2️⃣ Confirma con nosotros la dirección de depósito.\n3️⃣ Envía solo USDT por red BEP20. En otra red (TRC20, ERC20…) el dinero puede perderse y no se recupera.\n\nSi alguien te escribe desde otro número o te da otra dirección, no es de la tienda.\n\nComparte este aviso con quien compre por aquí. 🔖"
+        "nombre": "Ahora (30 min)",
+        "texto": "1. Revisar el historial de git del repo tudespensa/tu-despensa por claves, tokens o datos subidos alguna vez. Si aparece algo, cambiar esa clave en su servicio (borrar el archivo no basta).\n2. Fijar las dos direcciones USDT en el canal oficial de WhatsApp/Telegram, para que el cliente compare con la web.\n3. Añadir en la web un aviso: «Único número oficial: +53 53933247. Confirma siempre la dirección de depósito por WhatsApp antes de enviar.»"
       },
       {
-        "nombre": "Hashtags",
-        "texto": "#TuDespensa #suscripcionesdigitales #cuba #usdt #compraSegura #avisoimportante"
+        "nombre": "Esta semana",
+        "texto": "4. Añadir una Content-Security-Policy con <meta http-equiv> en el <head> (GitHub Pages no deja cabeceras): scripts solo inline, estilos y fuentes solo de Google Fonts, connect-src none, form-action none. Probar y mirar la consola.\n5. Servir las fuentes desde el propio sitio (no enviar la IP del visitante a Google).\n6. Corregir el comentario del código «la dirección no queda expuesta en la página»: es falso, las direcciones están completas en data-addr del HTML."
       },
       {
-        "nombre": "Primer comentario",
-        "texto": "🛒 Catálogo y cómo comprar:\nhttps://tudespensa.github.io/tu-despensa/?fuente=ig-aviso-oficial"
+        "nombre": "Cuenta de GitHub",
+        "texto": "7. Activar verificación en dos pasos en la cuenta tudespensa.\n8. Activar secret scanning en el repo.\n9. Si es posible, dominio propio para que se distinga el sitio oficial de los clones."
+      },
+      {
+        "nombre": "Opcional",
+        "texto": "10. robots.txt y sitemap.xml (solo posicionamiento).\n\nLo más importante: que nadie entre a la cuenta de GitHub y cambie las direcciones de pago, o que clonen la web. Los puntos 2, 3 y 7 cubren eso mejor que cualquier cabecera."
       }
     ]
   },
