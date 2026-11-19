@@ -19,8 +19,20 @@
         "texto": "7. Activar verificación en dos pasos en la cuenta tudespensa.\n8. Activar secret scanning en el repo.\n9. Si es posible, dominio propio para que se distinga el sitio oficial de los clones."
       },
       {
+        "nombre": "Cuentas y billeteras (lo más grave si falla)",
+        "texto": "11. Verificación en dos pasos en WhatsApp y en Telegram. Nunca compartir los códigos de verificación que llegan por SMS.\n12. Billeteras SafePal y Cwallet: la frase de recuperación nunca en fotos ni en chats; verificación en dos pasos; revisar los dispositivos conectados. El USDT perdido no se recupera.\n13. Revisar el bot de Telegram Tudespensaweb1_bot: que su token no esté en ningún repo y que no guarde datos de clientes sin proteger. (Pendiente: no se ha revisado su código.)"
+      },
+      {
+        "nombre": "Antes de entregar un pedido",
+        "texto": "14. Verificar siempre el hash de la transacción en BscScan (red BEP20, monto y dirección correctos) antes de entregar. Alguien puede mandar un comprobante falso."
+      },
+      {
+        "nombre": "Lo que no se arregla con código",
+        "texto": "15. Los clones de la web no se pueden impedir en una web estática; solo se reducen con dominio propio, canal oficial y que el cliente confirme la dirección por WhatsApp.\n16. Riesgo de negocio: vender cuentas con etiquetas como NW, FW o Trusted puede incumplir los términos de las marcas (bloqueos y reclamaciones). Tener clara la política de reembolso."
+      },
+      {
         "nombre": "Opcional",
-        "texto": "10. robots.txt y sitemap.xml (solo posicionamiento).\n\nLo más importante: que nadie entre a la cuenta de GitHub y cambie las direcciones de pago, o que clonen la web. Los puntos 2, 3 y 7 cubren eso mejor que cualquier cabecera."
+        "texto": "10. robots.txt y sitemap.xml (solo posicionamiento).\n\nLo más importante: que nadie entre a la cuenta de GitHub y cambie las direcciones de pago, o que clonen la web. Los puntos 2, 3, 7, 11 y 12 cubren eso mejor que cualquier cabecera."
       }
     ]
   },
