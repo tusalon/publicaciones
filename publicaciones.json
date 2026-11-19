@@ -1,5 +1,89 @@
 [
   {
+    "id": "reel-dia-06-poco-cada-semana",
+    "fecha": "2026-11-19",
+    "tipo": "Reel",
+    "titulo": "Serie 30 días · Día 6: poco cada semana gana a todo en un día",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-06/dia-06-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Poco cada semana le gana a todo en un día. 📅\n\nPublicar siete veces un lunes y desaparecer dos semanas es hacer todo el pan el domingo. La clienta se olvida. Si publicas poco pero cada semana, te ve, te recuerda y te busca.\n\nDía 6 de 30. Tu tarea: escoge hoy dos días fijos para publicar esta semana. ¿Cuáles son?\n\nGuárdalo y mándaselo a una amiga con salón. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RomaCrece #RservasRoma #crecerenInstagram #salondebelleza #manicura #uñas #nailscuba #emprendedorascuba #constancia #cuba"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-dia-06"
+      }
+    ]
+  },
+  {
+    "id": "reel-ficha-clienta-lo-mismo-de-siempre",
+    "fecha": "2026-11-19",
+    "tipo": "Reel",
+    "titulo": "La ficha de la clienta: «lo mismo de siempre»",
+    "archivo": "reels/2026-11-ficha-clienta/salida/ficha-clienta-v3.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "«Lo mismo de siempre»… ¿y qué fue? 🤔\n\nEn la ficha de la clienta anotas qué se hizo, con qué productos y cómo evolucionó. Las citas completadas aparecen solas: tú solo anotas. Y es privada: solo la ven la dueña y el nivel Avanzado.\n\nHoy, después del servicio, anota qué hiciste.\n\nGuárdalo y mándaselo a una amiga con salón. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RservasRoma #salondebelleza #manicura #uñas #nailscuba #fichadeclienta #clientas #emprendedorascuba #negociodebelleza #cuba"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-reel-ficha-clienta"
+      }
+    ]
+  },
+  {
+    "id": "reel-dia-05-destacados-vitrina",
+    "fecha": "2026-11-18",
+    "tipo": "Reel",
+    "titulo": "Serie 30 días · Día 5: tus destacados son la vitrina de tu salón",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-05/dia-05-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tus destacados son la vitrina de tu salón. 🪟\n\nUna clienta nueva entra a tu perfil y toca los destacados. Si están vacíos, no hay nada que mirar. Si tienen servicios, precios y cómo reservar, lo encuentra todo.\n\nDía 5 de 30. Tu tarea: abre tus destacados como si fueras clienta. ¿Encuentras el precio y cómo reservar?\n\nGuárdalo y mándaselo a una amiga con salón. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RomaCrece #RservasRoma #crecerenInstagram #salondebelleza #manicura #uñas #nailscuba #emprendedorascuba #destacadosinstagram #cuba"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-dia-05"
+      }
+    ]
+  },
+  {
+    "id": "reel-dia-04-enlace-puerta",
+    "fecha": "2026-11-18",
+    "tipo": "Reel",
+    "titulo": "Serie 30 días · Día 4: tu enlace es la puerta de tu salón",
+    "archivo": "reels/2026-11-romacrece-serie/salida/dia-04/dia-04-v2.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu enlace es la puerta de tu salón. 🚪\n\nSi dice «escríbeme», la clienta toca, escribe y espera. Si dice «reservar», toca, elige su hora y listo.\n\nDía 4 de 30. Tu tarea: toca tu propio enlace como si fueras clienta. ¿Reservas en un toque?\n\nGuárdalo y mándaselo a una amiga con salón. 🔖"
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#RomaCrece #RservasRoma #crecerenInstagram #salondebelleza #manicura #uñas #nailscuba #emprendedorascuba #linkenbio #cuba"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "👉 ¿Tienes salón? Pide tu app de reservas, 15 días gratis:\nhttps://tusalon.github.io/HouseofRservasRoma/?fuente=ig-dia-04"
+      }
+    ]
+  },
+  {
     "id": "reel-tasa-cup-usd",
     "fecha": "2026-11-18",
     "tipo": "Reel",
