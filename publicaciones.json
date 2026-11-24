@@ -1,5 +1,30 @@
 [
   {
+    "id": "maison-queratoliticos-reel",
+    "fecha": "2026-11-24",
+    "tipo": "Reel",
+    "titulo": "Maison Glam Cuba · «Tu tiempo también cuenta» (queratolíticos)",
+    "archivo": "reels/2026-11-maison-queratoliticos/salida/maison-queratoliticos-v1.mp4",
+    "bloques": [
+      {
+        "nombre": "Texto de la publicación",
+        "texto": "Tu tiempo también cuenta ⏳\n\nTres queratolíticos, dos áreas de trabajo y una solución para tu mesa profesional:\n\n💅 Manicura: EASY CARE-tolytic y JZ NAILS Keratolytic, dos opciones para facilitar la preparación de la cutícula.\n🦶 Pedicura: NOTD (Nails of the Day), un aliado para tus servicios.\n\nOptimiza tu trabajo, aprovecha mejor tu tiempo y eleva la experiencia de tus servicios.\n\n📩 Disponibles en Maison Glam Cuba. Escríbenos y consulta disponibilidad."
+      },
+      {
+        "nombre": "Hashtags",
+        "texto": "#MaisonGlamCuba #manicuracuba #pedicura #queratolitico #cuticleremover #uñascuba #manicuristas #nailtechcuba #productosdeuñas #lahabana"
+      },
+      {
+        "nombre": "Primer comentario",
+        "texto": "¿Cuál usas tú en tu mesa: EASY, JZ NAILS o NOTD? Escríbenos y te contamos cuál tenemos disponible 💬"
+      },
+      {
+        "nombre": "Música",
+        "texto": "Añadir en Instagram una pista instrumental suave (piano o lounge) de la biblioteca de audio, al 15-20 % para que no tape la voz."
+      }
+    ]
+  },
+  {
     "id": "maison-queratoliticos-prompts-flow",
     "fecha": "2026-11-24",
     "tipo": "Prompts",
