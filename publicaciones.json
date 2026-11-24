@@ -1,5 +1,34 @@
 [
   {
+    "id": "maison-queratoliticos-prompts-flow",
+    "fecha": "2026-11-24",
+    "tipo": "Prompts",
+    "titulo": "Maison Glam Cuba · «Tu tiempo también cuenta»: prompts de clips para Flow",
+    "archivo": "",
+    "bloques": [
+      {
+        "nombre": "Cómo usarlos",
+        "texto": "Flow (Veo), formato vertical 9:16, 8 s cada uno. Ningún clip muestra frascos: los productos salen solo con las fotos reales. Guardar los MP4 en reels/2026-11-maison-queratoliticos como clip1.mp4 … clip4.mp4."
+      },
+      {
+        "nombre": "clip1 — La necesidad (escena 1)",
+        "texto": "Vertical 9:16 photorealistic high-end beauty commercial. A professional manicurist in a beige linen apron carefully pushes back the cuticles of a client's hand with a metal pusher at a clean white nail desk. Soft diffused window light, sage green and warm beige palette, small gold details, shallow depth of field. Slow dolly-in on the hands, then a brief rack focus to a minimalist gold wall clock in the soft background. Calm, focused, elegant European beauty-brand look. Natural skin texture, real hands, no text, no logos, no product bottles."
+      },
+      {
+        "nombre": "clip2 — Aplicación en cutícula (escena 2)",
+        "texto": "Vertical 9:16 photorealistic macro shot for a premium nail-care commercial. A single drop of clear liquid falls from a glass dropper onto the cuticle line of a natural, well-groomed fingernail; the manicurist's gloved hand gently spreads it with a cotton-tipped orange stick. Soft studio light, clean sage green background out of focus, subtle warm highlights. Slow motion, steady camera, natural skin texture. No text, no logos, no visible bottle or label."
+      },
+      {
+        "nombre": "clip3 — Pedicura (escena 3)",
+        "texto": "Vertical 9:16 photorealistic premium spa pedicure commercial. A nail professional wearing white gloves prepares a client's foot resting on a folded white towel, gently working on the heel area with a professional foot file. Clean, bright, hygienic spa setting in sage green, white and beige, soft diffused light, small gold accents. Slow lateral camera slide, tasteful and elegant framing, realistic skin. No text, no logos, no product bottles."
+      },
+      {
+        "nombre": "clip4 — Beneficio (escena 4)",
+        "texto": "Vertical 9:16 photorealistic high-end commercial. A confident nail professional in her thirties stands in a clean, organized, modern nail studio with sage green walls, white furniture, beige textures and small gold details; she arranges tools on a tidy desk, then looks up and smiles softly. Soft morning light, slow push-in camera, calm and premium European beauty-brand mood. Natural skin, real environment, no text, no logos, no product bottles."
+      }
+    ]
+  },
+  {
     "id": "tudespensa-seguridad-que-arreglar",
     "fecha": "2026-11-19",
     "tipo": "Nota",
