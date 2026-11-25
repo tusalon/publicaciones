@@ -1,5 +1,26 @@
 [
   {
+    "id": "lr-creamy-prompts-flow",
+    "fecha": "2026-11-25",
+    "tipo": "Prompts Flow",
+    "titulo": "LR Pro Line · Creamy Builder Gel · animar las fotos en Flow (Frames to Video, 9:16)",
+    "archivo": "Lr Pro Line Global/reels/salida/2026-11-creamy-prototipo/prompts-flow.md",
+    "bloques": [
+      {
+        "nombre": "1 · textura.mp4 — el gel que se autonivela (foto: `img/textura.jpg`)",
+        "texto": "Vertical 9:16 macro product video. Use the reference image exactly as the first frame: a clear glass jar filled with pastel yellow creamy builder gel and a thin metal spatula lifting a thick ribbon of gel. Animate in slow motion: the spatula slowly rises, the creamy gel stretches in a smooth glossy ribbon, folds gently back into the jar and the surface self-levels into a perfectly smooth, shiny top. Soft warm studio light, subtle golden highlights moving across the gel, very slow camera push-in, shallow depth of field. Keep the jar, the gel color and the spatula identical to the reference. No hands, no text, no new objects, no logos."
+      },
+      {
+        "nombre": "2 · sugarblush.mp4 — el tarro bajo el foco (foto: `img/tarro-sugar.png` sobre fondo negro)",
+        "texto": "Vertical 9:16 luxury cosmetic product video. Use the reference image exactly as the first frame: a round jar of LR Pro Line Creamy Builder Gel in the shade Sugarblush, with a gold rim and a white label with pink drips. Keep the label, the LR logo, the words \"Sugarblush\", \"Creamy Builder Gel\" and \"30ml UV/LED\" completely identical and readable; do not redraw or change any text. Animate only the light and the camera: a slow dolly-in, a soft golden light sweep gliding across the gold rim, a gentle glossy shimmer on the pink drips, warm dark studio background with soft bokeh. No hands, no extra text, no new objects."
+      },
+      {
+        "nombre": "3 · siete.mp4 — los 7 colores desde arriba (foto: `assets/p1.jpg` de la carpeta creamy-20s)",
+        "texto": "Vertical 9:16 top-down luxury product video. Use the reference image exactly as the first frame: seven round jars of LR Pro Line Creamy Builder Gel seen from above, with gold rims and pastel drips (Buttersweet, Skydrop, Aquamist, Mintcloud, Peachmelt, Lilacream and Sugarblush in the center). Keep every label, color name and logo identical. Animate with a very slow overhead camera rotation and push-in, golden light glints traveling around the gold rims one by one, soft warm lighting. No hands, no text, no new objects, nothing added or removed."
+      }
+    ]
+  },
+  {
     "id": "maison-queratoliticos-reel",
     "fecha": "2026-11-25",
     "tipo": "Reel",
