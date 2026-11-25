@@ -1,5 +1,66 @@
 [
   {
+    "id": "lr-creamy-escenarios",
+    "fecha": "2026-11-25",
+    "tipo": "Prompts Flow",
+    "titulo": "LR Pro Line · Creamy · escenarios de lujo para Flow (imagen + video, 9:16)",
+    "archivo": "Lr Pro Line Global/reels/salida/2026-11-creamy-prototipo/prompts-escenarios.md",
+    "bloques": [
+      {
+        "nombre": "Cómo usarlos",
+        "texto": "Idea: la IA crea **solo el escenario** (seda champagne, oro líquido, cintas, gotas de gel, pedestal). **El tarro real lo pongo yo encima**, recortado de la foto original: así la etiqueta nunca se deforma (regla de LR: fotos reales del producto).\nFlujo en Flow: 1) genera la imagen con el prompt de imagen (9:16); 2) «Frames to Video» con esa imagen y el prompt de video (8 s). Guarda cada MP4 en `img/` con el nombre indicado."
+      },
+      {
+        "nombre": "E1 · apertura.mp4 — la seda que se despliega (gancho) · IMAGEN",
+        "texto": "Vertical 9:16 luxury beauty campaign still. A perfectly folded square of champagne-gold silk paper with crisp origami folds, centered on a deep warm-black background, soft overhead spotlight, subtle golden rim light on the folds, fine gold dust floating in the air, photorealistic, ultra-detailed, high-end cosmetic advertising look. No text, no logo, no product."
+      },
+      {
+        "nombre": "E1 · apertura.mp4 — la seda que se despliega (gancho) · VIDEO",
+        "texto": "The folded champagne-gold silk paper slowly unfolds like origami, opening into an elegant flower shape with a round, empty pedestal in its center; silk ribbons curl outward; the spotlight brightens on the empty pedestal; slow camera push-in; smooth, elegant, luxury beauty commercial. No text, no logo, no product appears."
+      },
+      {
+        "nombre": "E2 · cinta-gel.mp4 — la cinta de gel rosa («es la viscosidad») · IMAGEN",
+        "texto": "Vertical 9:16 macro beauty still. A thick, glossy ribbon of pastel pink creamy gel swirling and folding over itself in mid-air, satin sheen, soft warm studio light, deep warm-black background with soft champagne-gold bokeh, shallow depth of field, photorealistic, luxury cosmetic campaign. No text, no logo, no product, no hands."
+      },
+      {
+        "nombre": "E2 · cinta-gel.mp4 — la cinta de gel rosa («es la viscosidad») · VIDEO",
+        "texto": "In slow motion the pastel pink creamy gel ribbon swirls, stretches and folds over itself, glossy highlights gliding along its surface, a few small droplets detach and fall, gentle camera drift. No text, no logo, no product."
+      },
+      {
+        "nombre": "E3 · pedestal.mp4 — pedestal en oro líquido (aquí va el tarro Sugarblush) · IMAGEN",
+        "texto": "Vertical 9:16 luxury product stage, empty. A round black pedestal with a thin champagne-gold rim, centered in the lower half of the frame, standing in a shallow pool of glossy liquid gold with soft concentric ripples; champagne silk ribbons spiral upward behind it; a few glossy pastel pink gel droplets suspended in the air; deep warm-black background; overhead spotlight; golden reflections; photorealistic. The top of the pedestal is completely empty and clearly visible. No text, no logo, no product."
+      },
+      {
+        "nombre": "E3 · pedestal.mp4 — pedestal en oro líquido (aquí va el tarro Sugarblush) · VIDEO",
+        "texto": "Gold ripples spread slowly across the liquid pool, the silk ribbons drift and turn gently, pink droplets fall in slow motion and land with tiny splashes, light glints travel along the gold rim of the pedestal; static camera with a very slow push-in. The pedestal top stays empty. No text, no logo, no product."
+      },
+      {
+        "nombre": "E4 · tres.mp4 — tres pedestales con cintas de colores (Refuerzo / Overlay / Extensión) · IMAGEN",
+        "texto": "Vertical 9:16 luxury product stage, empty. Three round black pedestals with thin champagne-gold rims side by side in the lower half of the frame, the middle one slightly taller; behind each one a silk ribbon curls upward: pastel yellow on the left, pastel pink in the middle, mint green on the right; glossy liquid-gold floor with reflections; deep warm-black background; soft spotlights from above; photorealistic. The tops of the three pedestals are empty and clearly visible. No text, no logo, no product."
+      },
+      {
+        "nombre": "E4 · tres.mp4 — tres pedestales con cintas de colores (Refuerzo / Overlay / Extensión) · VIDEO",
+        "texto": "The three silk ribbons flutter and curl slowly behind the pedestals, soft golden light sweeps across the floor from left to right, gentle reflections ripple; static camera with a very slow push-in. The pedestal tops stay empty. No text, no logo, no product."
+      },
+      {
+        "nombre": "E5 · siete.mp4 — fondo para los 7 colores (vista cenital) · IMAGEN",
+        "texto": "Vertical 9:16 top-down luxury flat lay. Soft champagne-gold silk fabric with gentle folds filling the frame, warm overhead light, ribbons of pastel creamy gel in yellow, sky blue, aqua, mint green, peach, lilac and pink flowing gracefully across the silk around an empty circular area in the center, fine gold dust, photorealistic, high-end beauty campaign. The center area is empty. No text, no logo, no product."
+      },
+      {
+        "nombre": "E5 · siete.mp4 — fondo para los 7 colores (vista cenital) · VIDEO",
+        "texto": "Very slow overhead camera rotation and push-in, the silk folds ripple softly, glossy highlights travel along the pastel gel ribbons. The center stays empty. No text, no logo, no product."
+      },
+      {
+        "nombre": "E6 · cierre.mp4 — fondo del cierre (logo y CREAMY encima) · IMAGEN",
+        "texto": "Vertical 9:16 luxury background. Flowing champagne-gold silk waves rising from the bottom of the frame over a deep warm-black background, soft spotlight from the top center, floating gold dust, large empty dark area in the upper and middle part for a logo and text. Photorealistic, elegant, high-end beauty campaign. No text, no logo, no product."
+      },
+      {
+        "nombre": "E6 · cierre.mp4 — fondo del cierre (logo y CREAMY encima) · VIDEO",
+        "texto": "The champagne-gold silk waves flow and ripple slowly upward, gold dust drifts, the spotlight gently breathes brighter and softer; static camera. No text, no logo, no product."
+      }
+    ]
+  },
+  {
     "id": "lr-creamy-prompts-flow",
     "fecha": "2026-11-25",
     "tipo": "Prompts Flow",
