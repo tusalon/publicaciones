@@ -1,5 +1,27 @@
 [
   {
+    "id": "wa-actualizacion-anticipo-descuento-mensajes-2026-11-26",
+    "fecha": "2026-11-26",
+    "tipo": "WhatsApp",
+    "seccion": "whatsapp",
+    "titulo": "Actualización del panel: anticipo y descuento por clienta, y tus mensajes de WhatsApp",
+    "archivo": "Release admin-2026-11-26-clientas (APK de las dueñas)",
+    "bloques": [
+      {
+        "nombre": "Mensaje completo",
+        "texto": "✨ ¡Hola! Ya está lista la nueva actualización de tu panel de RservasRoma ✨\n\nLo nuevo:\n\n💵 *Anticipo solo a quien tú quieras*\nEn Clientes, toca el nombre de la clienta y elige: Normal, Pedirle siempre o No pedirle.\n\n🔁 *Anticipo automático a quien cancele o falte* (viene apagado)\nActívalo en Editar negocio → Pagos y anticipos. Eliges desde cuántas faltas (1, 2 o 3). Cuentan las ausencias y las citas que ella cancele desde la app en los últimos 90 días, y se le quita al completar 3 citas seguidas.\n\nEl monto es el anticipo de tu salón. Ponlo en Editar negocio → Pagos y anticipos.\n\n🏷️ *Descuento personal por clienta*\nEn la ficha de la clienta escribe el % y guarda. Vale para todos los servicios hasta que lo quites, ella lo ve al reservar y no se suma a fidelidad ni a cumpleaños.\n\n💬 *Tus mensajes de WhatsApp, con tus palabras*\nEn Editar negocio → Mensajes puedes cambiar la solicitud de cita de tus clientas, el pago recibido, las cancelaciones, los cambios de hora, el recordatorio, el cumpleaños, la lista de espera y más. Si no cambias nada, salen como siempre.\n\n🛠️ Arreglado: ya no queda la pantalla en blanco después de «Reservar otra cita».\n\n📲 TU PANEL (Android): descarga e instala este archivo encima de la app que ya tienes (no pierdes nada):\nhttps://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk\nSi Android te avisa de «orígenes desconocidos», permítelo para el navegador.\n\n📲 TU PANEL (iPhone y navegador): no hay que instalar nada. Cierra la app y vuelve a abrirla para ver lo nuevo.\n\n👀 En el navegador, tú y tus clientas ven lo nuevo con el enlace de la app nueva (el que dice /rservasroma/). Si el tuyo es distinto, escríbeme y lo revisamos.\n\nCualquier duda, escríbeme por aquí 💗"
+      },
+      {
+        "nombre": "Enlace del panel (Android)",
+        "texto": "https://github.com/tusalon/rservasroma/releases/latest/download/rservasroma-admin-debug.apk"
+      },
+      {
+        "nombre": "Enlace de la app de las clientas (Android)",
+        "texto": "https://github.com/tusalon/rservasroma-clientes/releases/latest/download/rservasroma-clientes.apk"
+      }
+    ]
+  },
+  {
     "id": "lr-creamy-escenarios",
     "fecha": "2026-11-25",
     "tipo": "Prompts Flow",
